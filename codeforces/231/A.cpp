@@ -17,23 +17,10 @@ int main()
         cin>>l;
         cin>>q;
 
-        if(n==1)
+        if(n&&q==1||n&&l==1||l&&q==1)
         {
-            if(q==1||l==1)
-            {
-                count1+=1;
-            }
+            count1+=1;
         }
-        else if(q==1)
-            {
-                if(l==1)
-                {
-                    count1+=1;
-                }
-                }
-            }
-
-
+    }
     cout<<count1;
 }
-
