@@ -5,16 +5,15 @@ using namespace std;
 
 int main()
 {
-    ios_base::sync_with_stdio(0); cin.tie(0);
     int n,q;
     cin>>n>>q;
-    int a[n];
+    vector <int> a;
     int b[q];
     int thing;
     for(int i=0;i<n;i++)
     {
-      cin>>a[i];
-
+      cin>>thing;
+      a.push_back(thing);
     }
     for(int i=0;i<q;i++)
     {
