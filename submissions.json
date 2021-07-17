@@ -1,4 +1,21 @@
 {
+  "CF122867733": {
+    "contest_id": 1530,
+    "language": "C++17 (GCC 9-64)",
+    "path": "codeforces/1530/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Binary Decimal",
+    "problem_url": "https://codeforces.com/contest/1530/problem/A",
+    "submission_id": "CF122867733",
+    "submission_url": "https://codeforces.com/contest/1530/submission/122867733",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/17/2021 21:11"
+  },
   "CF125648030": {
     "contest_id": 1557,
     "language": "C++17 (GCC 9-64)",
