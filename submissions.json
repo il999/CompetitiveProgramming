@@ -1,4 +1,22 @@
 {
+  "CF125648030": {
+    "contest_id": 1557,
+    "language": "C++17 (GCC 9-64)",
+    "path": "codeforces/1557/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ezzat and Two Subsequences",
+    "problem_url": "https://codeforces.com/contest/1557/problem/A",
+    "submission_id": "CF125648030",
+    "submission_url": "https://codeforces.com/contest/1557/submission/125648030",
+    "tags": [
+      "brute force",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Aug/12/2021 10:05"
+  },
   "CF134242230": {
     "contest_id": 1607,
     "language": "C++17 (GCC 9-64)",
