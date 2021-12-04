@@ -1,20 +1,29 @@
-
-//coding template
+#include <iostream>
 #include <bits/stdc++.h>
+
 using namespace std;
 void solve()
 {
     int n;
     cin>>n;
     int l[n];
+    int l2[n];
     for(int i=0;i<n;i++)
     {
         cin>>l[i];
+
     }
-    sort(l,l+n);
-    for(int i=1;i<n/2+1;i++)
+    bool present=false;
+    int low=0;
+    int search1=0;
+    int high=n;
+    int count1=0;
+    int mid=0;
+    sort(l,l+n,greater<int>());
+
+    for(int i=0;i<n/2;i++)
     {
-        cout<<l[i]<<" "<<l[0]<<"\n";
+        cout<<l[i]<<" "<<l[n-1]<<endl;
     }
 }
 int main()
@@ -23,5 +32,7 @@ int main()
     int t;
     cin>>t;
     while(t--)
+    {
         solve();
+    }
 }
