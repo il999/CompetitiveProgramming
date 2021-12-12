@@ -1,4 +1,20 @@
 {
+  "CF138930428": {
+    "contest_id": 1591,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces/1591/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Life of a Flower",
+    "problem_url": "https://codeforces.com/contest/1591/problem/A",
+    "submission_id": "CF138930428",
+    "submission_url": "https://codeforces.com/contest/1591/submission/138930428",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/12/2021 18:52"
+  },
   "CF138930709": {
     "contest_id": 1591,
     "language": "C++14 (GCC 6-32)",
