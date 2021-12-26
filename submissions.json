@@ -1,4 +1,20 @@
 {
+  "CF140650839": {
+    "contest_id": 1618,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces/1618/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Missing Bigram",
+    "problem_url": "https://codeforces.com/contest/1618/problem/B",
+    "submission_id": "CF140650839",
+    "submission_url": "https://codeforces.com/contest/1618/submission/140650839",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/26/2021 11:30"
+  },
   "CF141242381": {
     "contest_id": 1616,
     "language": "C++14 (GCC 6-32)",
