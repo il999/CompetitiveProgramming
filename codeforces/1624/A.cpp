@@ -13,9 +13,14 @@ void solve()
 
     }
     sort(l,l+n);
+    int max1=0;
+    int actual=l[n-1];
 
-
-    cout<<l[n-1]-l[0]<<endl;
+    for(int i=0;i<n;i++)
+    {
+        max1=max(abs(l[i]-actual),max1);
+    }
+    cout<<max1<<endl;
 }
 int main()
 {
