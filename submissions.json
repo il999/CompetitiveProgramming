@@ -1,4 +1,23 @@
 {
+  "CF143244774": {
+    "contest_id": 1627,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces/1627/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Not Assigning",
+    "problem_url": "https://codeforces.com/contest/1627/problem/C",
+    "submission_id": "CF143244774",
+    "submission_url": "https://codeforces.com/contest/1627/submission/143244774",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "number theory",
+      "trees",
+      "*1400"
+    ],
+    "timestamp": "Jan/18/2022 15:58"
+  },
   "CF143246449": {
     "contest_id": 1627,
     "language": "C++14 (GCC 6-32)",
