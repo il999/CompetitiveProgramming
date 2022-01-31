@@ -1,4 +1,20 @@
 {
+  "CF144783000": {
+    "contest_id": 1633,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces/1633/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minority",
+    "problem_url": "https://codeforces.com/contest/1633/problem/B",
+    "submission_id": "CF144783000",
+    "submission_url": "https://codeforces.com/contest/1633/submission/144783000",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/31/2022 21:30"
+  },
   "CF144783740": {
     "contest_id": 1633,
     "language": "C++14 (GCC 6-32)",
