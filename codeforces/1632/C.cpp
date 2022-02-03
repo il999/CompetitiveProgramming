@@ -9,7 +9,7 @@ void solve()
     long long ans=b-a;
   int or1;
    //cout<<or1<<endl;
-    for(long long i=a;i<b;++i)
+    for(long long i=a;i<b;i++)
     {
         //cout<<i|b<<"\n";
           or1=i|b;
@@ -20,7 +20,7 @@ void solve()
             break;
         }
     }
-    for(long long i=b+1;;++i)
+    for(long long i=b+1;;i++)
     {
         or1=a|i;
         if(or1==i)
@@ -30,7 +30,7 @@ void solve()
             break;
         }
     }
-    cout<<ans<<"\n";
+    cout<<ans<<endl;
 }
 int main()
 {
