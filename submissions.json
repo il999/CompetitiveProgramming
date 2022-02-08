@@ -1,4 +1,21 @@
 {
+  "CF145633254": {
+    "contest_id": 1631,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1631/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fun with Even Subarrays",
+    "problem_url": "https://codeforces.com/contest/1631/problem/B",
+    "submission_id": "CF145633254",
+    "submission_url": "https://codeforces.com/contest/1631/submission/145633254",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Feb/08/2022 10:30"
+  },
   "CF145735093": {
     "contest_id": 732,
     "language": "C++17 (GCC 7-32)",
