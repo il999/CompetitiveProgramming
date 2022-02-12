@@ -1,4 +1,21 @@
 {
+  "CF146071405": {
+    "contest_id": 1637,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1637/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sorting Parts",
+    "problem_url": "https://codeforces.com/contest/1637/problem/A",
+    "submission_id": "CF146071405",
+    "submission_url": "https://codeforces.com/contest/1637/submission/146071405",
+    "tags": [
+      "brute force",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Feb/12/2022 14:37"
+  },
   "CF146087266": {
     "contest_id": 1637,
     "language": "C++17 (GCC 7-32)",
