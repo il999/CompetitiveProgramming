@@ -1,4 +1,22 @@
 {
+  "CF149556417": {
+    "contest_id": 977,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/977/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cyclic Components",
+    "problem_url": "https://codeforces.com/contest/977/problem/E",
+    "submission_id": "CF149556417",
+    "submission_url": "https://codeforces.com/contest/977/submission/149556417",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Mar/13/2022 18:57"
+  },
   "CF149799994": {
     "contest_id": 1650,
     "language": "C++17 (GCC 7-32)",
