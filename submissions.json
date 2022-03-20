@@ -1,4 +1,23 @@
 {
+  "CF150228533": {
+    "contest_id": 1654,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1654/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maximum Cake Tastiness",
+    "problem_url": "https://codeforces.com/contest/1654/problem/A",
+    "submission_id": "CF150228533",
+    "submission_url": "https://codeforces.com/contest/1654/submission/150228533",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Mar/20/2022 11:36"
+  },
   "CF150234546": {
     "contest_id": 1654,
     "language": "C++17 (GCC 7-32)",
