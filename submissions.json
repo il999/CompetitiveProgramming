@@ -1,4 +1,21 @@
 {
+  "CF150592882": {
+    "contest_id": 1657,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1657/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Integer Moves",
+    "problem_url": "https://codeforces.com/contest/1657/problem/A",
+    "submission_id": "CF150592882",
+    "submission_url": "https://codeforces.com/contest/1657/submission/150592882",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/23/2022 09:48"
+  },
   "CF150593173": {
     "contest_id": 1657,
     "language": "C++17 (GCC 7-32)",
