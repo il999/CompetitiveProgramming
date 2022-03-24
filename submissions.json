@@ -1,4 +1,23 @@
 {
+  "CF150828745": {
+    "contest_id": 1656,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1656/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Subtract Operation",
+    "problem_url": "https://codeforces.com/contest/1656/problem/B",
+    "submission_id": "CF150828745",
+    "submission_url": "https://codeforces.com/contest/1656/submission/150828745",
+    "tags": [
+      "data structures",
+      "greedy",
+      "math",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Mar/24/2022 20:40"
+  },
   "CF150830007": {
     "contest_id": 1656,
     "language": "C++17 (GCC 7-32)",
