@@ -1,4 +1,20 @@
 {
+  "CF151026358": {
+    "contest_id": 985,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/985/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chess Placing",
+    "problem_url": "https://codeforces.com/contest/985/problem/A",
+    "submission_id": "CF151026358",
+    "submission_url": "https://codeforces.com/contest/985/submission/151026358",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/26/2022 17:21"
+  },
   "CF151117517": {
     "contest_id": 1658,
     "language": "C++17 (GCC 7-32)",
