@@ -1,4 +1,21 @@
 {
+  "CF152467719": {
+    "contest_id": 1660,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1660/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vasya and Coins",
+    "problem_url": "https://codeforces.com/contest/1660/problem/A",
+    "submission_id": "CF152467719",
+    "submission_url": "https://codeforces.com/contest/1660/submission/152467719",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/02/2022 09:31"
+  },
   "CF153078085": {
     "contest_id": 1665,
     "language": "C++17 (GCC 7-32)",
