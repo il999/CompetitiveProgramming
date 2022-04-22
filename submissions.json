@@ -849,6 +849,25 @@
     ],
     "timestamp": "Apr/22/2022 19:46"
   },
+  "CF154593389": {
+    "contest_id": 1671,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1671/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dolce Vita",
+    "problem_url": "https://codeforces.com/contest/1671/problem/C",
+    "submission_id": "CF154593389",
+    "submission_url": "https://codeforces.com/contest/1671/submission/154593389",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Apr/22/2022 20:51"
+  },
   "CF154595323": {
     "contest_id": 1671,
     "language": "C++17 (GCC 7-32)",
