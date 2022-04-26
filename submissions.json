@@ -1,4 +1,22 @@
 {
+  "CF155064196": {
+    "contest_id": 1672,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1672/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Log Chopping",
+    "problem_url": "https://codeforces.com/contest/1672/problem/A",
+    "submission_id": "CF155064196",
+    "submission_url": "https://codeforces.com/contest/1672/submission/155064196",
+    "tags": [
+      "games",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/26/2022 19:44"
+  },
   "CF155067001": {
     "contest_id": 1672,
     "language": "C++17 (GCC 7-32)",
