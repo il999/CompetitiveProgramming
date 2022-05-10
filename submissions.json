@@ -1,4 +1,25 @@
 {
+  "CF156653557": {
+    "contest_id": 1676,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1676/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Most Similar Words",
+    "problem_url": "https://codeforces.com/contest/1676/problem/C",
+    "submission_id": "CF156653557",
+    "submission_url": "https://codeforces.com/contest/1676/submission/156653557",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "implementation",
+      "math",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/10/2022 15:59"
+  },
   "CF156668713": {
     "contest_id": 1676,
     "language": "C++17 (GCC 7-32)",
