@@ -1,4 +1,20 @@
 {
+  "CF156620368": {
+    "contest_id": 1676,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1676/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lucky?",
+    "problem_url": "https://codeforces.com/contest/1676/problem/A",
+    "submission_id": "CF156620368",
+    "submission_url": "https://codeforces.com/contest/1676/submission/156620368",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/10/2022 15:46"
+  },
   "CF156626080": {
     "contest_id": 1676,
     "language": "C++17 (GCC 7-32)",
