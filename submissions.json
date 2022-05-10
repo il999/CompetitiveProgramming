@@ -1,4 +1,22 @@
 {
+  "CF156681922": {
+    "contest_id": 1676,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1676/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Eating Queries",
+    "problem_url": "https://codeforces.com/contest/1676/problem/E",
+    "submission_id": "CF156681922",
+    "submission_url": "https://codeforces.com/contest/1676/submission/156681922",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "May/10/2022 16:25"
+  },
   "CF157202366": {
     "contest_id": 1680,
     "language": "C++17 (GCC 7-32)",
