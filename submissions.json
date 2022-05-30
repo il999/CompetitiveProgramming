@@ -1,4 +1,21 @@
 {
+  "CF158897191": {
+    "contest_id": 1183,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1183/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Computer Game",
+    "problem_url": "https://codeforces.com/contest/1183/problem/C",
+    "submission_id": "CF158897191",
+    "submission_url": "https://codeforces.com/contest/1183/submission/158897191",
+    "tags": [
+      "binary search",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/30/2022 18:06"
+  },
   "CF158980559": {
     "contest_id": 1195,
     "language": "C++17 (GCC 7-32)",
