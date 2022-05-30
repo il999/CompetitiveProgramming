@@ -1,4 +1,24 @@
 {
+  "CF158887527": {
+    "contest_id": 1684,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1684/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Column Swapping",
+    "problem_url": "https://codeforces.com/contest/1684/problem/C",
+    "submission_id": "CF158887527",
+    "submission_url": "https://codeforces.com/contest/1684/submission/158887527",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/30/2022 16:22"
+  },
   "CF158897191": {
     "contest_id": 1183,
     "language": "C++17 (GCC 7-32)",
