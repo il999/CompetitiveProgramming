@@ -1,4 +1,21 @@
 {
+  "CF159255393": {
+    "contest_id": 1054,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1054/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Candies Distribution",
+    "problem_url": "https://codeforces.com/contest/1054/problem/C",
+    "submission_id": "CF159255393",
+    "submission_url": "https://codeforces.com/contest/1054/submission/159255393",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jun/02/2022 14:28"
+  },
   "CF159257061": {
     "contest_id": 1681,
     "language": "C++17 (GCC 7-32)",
