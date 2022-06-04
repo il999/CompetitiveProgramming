@@ -1,4 +1,22 @@
 {
+  "CF159457981": {
+    "contest_id": 816,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/816/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Karen and Coffee",
+    "problem_url": "https://codeforces.com/contest/816/problem/B",
+    "submission_id": "CF159457981",
+    "submission_url": "https://codeforces.com/contest/816/submission/159457981",
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jun/04/2022 09:38"
+  },
   "CF159545950": {
     "contest_id": 261,
     "language": "C++17 (GCC 7-32)",
