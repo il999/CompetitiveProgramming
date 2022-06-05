@@ -1,4 +1,21 @@
 {
+  "CF159571658": {
+    "contest_id": 436,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/436/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Om Nom and Spiders",
+    "problem_url": "https://codeforces.com/contest/436/problem/B",
+    "submission_id": "CF159571658",
+    "submission_url": "https://codeforces.com/contest/436/submission/159571658",
+    "tags": [
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jun/05/2022 18:16"
+  },
   "CF159583145": {
     "contest_id": 1101,
     "language": "C++17 (GCC 7-32)",
