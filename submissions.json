@@ -1,4 +1,21 @@
 {
+  "CF159545950": {
+    "contest_id": 261,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/261/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maxim and Discounts",
+    "problem_url": "https://codeforces.com/contest/261/problem/A",
+    "submission_id": "CF159545950",
+    "submission_url": "https://codeforces.com/contest/261/submission/159545950",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jun/05/2022 12:21"
+  },
   "CF159552028": {
     "contest_id": 1372,
     "language": "C++17 (GCC 7-32)",
