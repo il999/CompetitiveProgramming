@@ -4,66 +4,19 @@ using ll =long long;
 using namespace std;
  vector<vector<int>> adj;
 int ans1=0;
-int child[300001];
-int dp[300001];
-int dfs(int u, bool seen[])
+int dist[300001];
+void dfs(int u, bool seen[])
 {
-    if(adj[u].size()==1)
-    {
-        return 0;
-    }
     for(int i=0;i<adj[u].size();i++)
     {
         if(!seen[adj[u][i]])
         {
-            seen[adj[u][i]]=1;
-            child[u]+=dfs(adj[u][i],seen)+1;
+            dist[adj[u][i]]=dist[u]+1;
+            seen[adj[u][i]]=true;
+            dfs(adj[u][i],seen);
         }
     }
-    return child[u];
 }
-
-int dfs2(int u, bool seen[])
-{
-    //cout<<u<<"\n";
-    if(adj[u].size()==1)
-    {
-        return 0;
-    }else if(adj[u].size()==2&&u!=0)
-    {
-        for(int i=0;i<2;i++)
-        {
-            if(!seen[adj[u][i]])
-                dp[u]=max(child[adj[u][i]],0);
-            seen[adj[u][i]]=1;
-        }
-
-    }else
-    {
-        int u1, v=-1;
-       // cout<<"GDSGW";
-        for(int i=0;i<adj[u].size();i++)
-        {
-            if(!seen[adj[u][i]])
-            {
-               seen[adj[u][i]]=true;
-                if(v==-1)
-                {
-                    v=i;
-                }else
-                {
-                    u1=i;
-                }
-            }
-
-        }
-        dp[u]=max(dfs2(adj[u][u1],seen)+child[adj[u][v]],dfs2(adj[u][v],seen)+child[adj[u][u1]]);
-         dp[u]=max(dp[u],0);
-    }
-
-    return dp[u];
-}
-
 void solve()
 {
     int n;
@@ -73,8 +26,6 @@ void solve()
     for(int i=0;i<n;i++)
     {
         adj.push_back(te);
-        child[i]=0;
-        dp[i]=0;
     }
     int u,v;
     for(int i=1;i<n;i++)
@@ -89,29 +40,30 @@ void solve()
     {
         cout<<max(0,n-2)<<"\n";
         return;
-    }
-    bool seen[n];
-    for(int i=0;i<n;i++)
+    }else
     {
-        seen[i]=0;
+        dist[0]=0;
+        bool seen[n];
+        for(int i=0;i<n;i++)
+        {
+            seen[i]=0;
+        }
+        seen[0]=true;
+        dfs(0,seen);
+        int ans=1e9;
+        for (int i=0;i<n;i++) {
+            if (2*dist[i]+1+(adj[i].size()-1+(!i)) < ans && adj[i].size()+(!i) < 3) {
+                ans = 2*dist[i]+1+(adj[i].size()-1+(! i));
+                //cout<<n-ans<<" "<<i<<"\n";
+
+            }
+        }
+        cout << n-ans << "\n";
     }
-    seen[0]=true;
-    dfs(0,seen);
-    for(int i=1;i<n;i++)
-    {
-        seen[i]=0;
-    }
-    dfs2(0,seen);
-    //cout<<child[2]<<"\n";
-    for(int i=0;i<n;i++)
-    {
-       //cout<<dp[i]<<"\n";
-    }
-    cout<<dp[0]<<"\n";;
 }
 int main()
 {
-   ios_base::sync_with_stdio(0); cin.tie(0);
+    ios_base::sync_with_stdio(0); cin.tie(0);
     int t;
     cin>>t;
     while(t--)
