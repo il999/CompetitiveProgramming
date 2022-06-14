@@ -58,7 +58,7 @@ int dfs2(int u, bool seen[])
 
         }
         dp[u]=max(dfs2(adj[u][u1],seen)+child[adj[u][v]],dfs2(adj[u][v],seen)+child[adj[u][u1]]);
-
+         dp[u]=max(dp[u],0);
     }
 
     return dp[u];
@@ -103,7 +103,10 @@ void solve()
     }
     dfs2(0,seen);
     //cout<<child[2]<<"\n";
-
+    for(int i=0;i<n;i++)
+    {
+       //cout<<dp[i]<<"\n";
+    }
     cout<<dp[0]<<"\n";;
 }
 int main()
