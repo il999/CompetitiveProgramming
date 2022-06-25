@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
- 
+
 using namespace std;
 void solve()
 {
@@ -18,10 +18,11 @@ void solve()
     vector<pair<long long,long long>> a2;
     vector<pair<long long,long long>> b2;
     int in=-1;
- 
+
     for(int i=0;i<n;i++)
     {
-        
+        if(a[i]%k==0)
+        {
             long long am=1;
             while(a[i]%k==0&&a[i]>0)
             {
@@ -34,17 +35,32 @@ void solve()
             }else
             {
                  a2.push_back(make_pair((a[i]),am));
- 
+
             }
- 
- 
- 
- 
+
+
+
+
+
+        }else
+
+        {
+            if(a2.size()>0&&a2[a2.size()-1].first==a[i])
+            {
+                a2[a2.size()-1].second++;
+            }else
+            {
+                 a2.push_back(make_pair((a[i]),1));
+
+            }
+
+        }
     }
- 
+
     for(int i=0;i<m;i++)
     {
-       
+        if(b[i]%k==0)
+        {
             long long am=1;
             while(b[i]%k==0&&b[i]>0)
             {
@@ -59,12 +75,22 @@ void solve()
             {
                 b2.push_back(make_pair((b[i]),am));
             }
- 
- 
-       
+
+
+        }else
+
+        {
+            if(b2.size()>0&&b2[b2.size()-1].first==b[i])
+            {
+                b2[b2.size()-1].second++;
+            }else
+            {
+                b2.push_back(make_pair((b[i]),1));
+            }
+        }
     }
    // cout<<a2.size()<<" gg "<<b2.size()<<"\n";
- 
+
    if(a2.size()!=b2.size())
    {
        cout<<"NO\n";
@@ -75,15 +101,15 @@ void solve()
         //cout<<a2[i].first<<" "<<a2[i].second<<" others "<<b2[i].first<<" "<<b2[i].second<<"\n";
         if(a2[i].first!=b2[i].first||a2[i].second!=b2[i].second)
         {
- 
- 
+
+
             cout<<"NO\n";
             return;
         }
     }
- 
- 
- 
+
+
+
     cout<<"YES\n";
 }
 int main()
