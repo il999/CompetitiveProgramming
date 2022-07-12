@@ -1388,6 +1388,24 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF163786929": {
+    "contest_id": 1699,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1699/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Third Problem",
+    "problem_url": "https://codeforces.com/contest/1699/problem/C",
+    "submission_id": "CF163786929",
+    "submission_url": "https://codeforces.com/contest/1699/submission/163786929",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jul/12/2022 12:38"
+  },
   "CF163806909": {
     "contest_id": 1703,
     "language": "C++17 (GCC 7-32)",
