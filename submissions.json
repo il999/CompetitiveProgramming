@@ -1388,6 +1388,26 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF163894873": {
+    "contest_id": 1703,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1703/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Yet Another Problem About Pairs Satisfying an Inequality",
+    "problem_url": "https://codeforces.com/contest/1703/problem/F",
+    "submission_id": "CF163894873",
+    "submission_url": "https://codeforces.com/contest/1703/submission/163894873",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jul/12/2022 16:45"
+  },
   "CF164020703": {
     "contest_id": 1702,
     "language": "C++17 (GCC 7-32)",
