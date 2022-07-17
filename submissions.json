@@ -2809,6 +2809,23 @@
     ],
     "timestamp": "Jul/17/2022 16:52"
   },
+  "CF164656623": {
+    "contest_id": 645,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/645/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Enduring Exodus",
+    "problem_url": "https://codeforces.com/contest/645/problem/C",
+    "submission_id": "CF164656623",
+    "submission_url": "https://codeforces.com/contest/645/submission/164656623",
+    "tags": [
+      "binary search",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "Jul/17/2022 22:21"
+  },
   "CF164658171": {
     "contest_id": 677,
     "language": "C++17 (GCC 7-32)",
