@@ -2809,6 +2809,25 @@
     ],
     "timestamp": "Jul/17/2022 16:52"
   },
+  "CF164658171": {
+    "contest_id": 677,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/677/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Vanya and Label",
+    "problem_url": "https://codeforces.com/contest/677/problem/C",
+    "submission_id": "CF164658171",
+    "submission_url": "https://codeforces.com/contest/677/submission/164658171",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "implementation",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Jul/17/2022 22:55"
+  },
   "CF164701187": {
     "contest_id": 1237,
     "language": "C++17 (GCC 7-32)",
