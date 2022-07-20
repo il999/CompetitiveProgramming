@@ -36,7 +36,6 @@ int string_hashing(string s)
     h2mod2[n]=0;
     hmod2[0]=0;
     ll p=31;
-    ll p2mod2=37;
     ll temp=1;
     ll p1[n];
     ll p1mod2[n];
@@ -48,7 +47,7 @@ int string_hashing(string s)
         h[i+1]=(h[i]+temp*(s[i]-'a'+1)) %MOD;
         hmod2[i+1]=(hmod2[i]+tempmod2*(s[i]-'a'+1)) %MOD2;
         temp=(temp*p)%MOD;
-        tempmod2=(tempmod2*p2mod2)%MOD2;
+        tempmod2=(tempmod2*p)%MOD2;
 
 
     }
@@ -60,7 +59,7 @@ int string_hashing(string s)
         h2mod2[i]=(h2mod2[i+1]+tempmod2*(s[i]-'a'+1))%MOD2;
         h2[i]=(h2[i+1]+temp*(s[i]-'a'+1))%MOD;
         temp=(temp*p)%MOD;
-        tempmod2=(tempmod2*p2mod2)%MOD2;
+        tempmod2=(tempmod2*p)%MOD2;
     }
     ll hashval1=0;
     ll hashval2=0;
@@ -102,7 +101,7 @@ int string_hashing(string s)
             }
            // cout<<hashval1<<" "<<hashval2<<"\n";
 
-            if(hashval1==hashval2&&temphash2==temphash)
+            if(hashval1==hashval2&&temphash==temphash2)
             {
                 ans=(i+1)*2;
              //  cout<<"DFS";
@@ -143,7 +142,7 @@ int string_hashing(string s)
                 //cout<<"DS";
                // cout<<temphash<<" "<<temphash2<<"\n";
             }
-            if(hashval1==hashval2&&temphash2==temphash)
+            if(hashval1==hashval2&&temphash==temphash2)
             {
                 ans=max(1ll*(i+1)*2-1,ans);
               //  cout<<"DS";
