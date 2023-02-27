@@ -1388,6 +1388,23 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF195211420": {
+    "contest_id": 1799,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1799/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Hot Start Up (hard version)",
+    "problem_url": "https://codeforces.com/contest/1799/problem/D2",
+    "submission_id": "CF195211420",
+    "submission_url": "https://codeforces.com/contest/1799/submission/195211420",
+    "tags": [
+      "data structures",
+      "dp",
+      "*2100"
+    ],
+    "timestamp": "Feb/27/2023 21:40"
+  },
   "CF195292899": {
     "contest_id": 1796,
     "language": "C++17 (GCC 7-32)",
