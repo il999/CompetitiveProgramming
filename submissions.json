@@ -1388,6 +1388,25 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF196300139": {
+    "contest_id": 1800,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1800/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Remove Two Letters",
+    "problem_url": "https://codeforces.com/contest/1800/problem/D",
+    "submission_id": "CF196300139",
+    "submission_url": "https://codeforces.com/contest/1800/submission/196300139",
+    "tags": [
+      "data structures",
+      "greedy",
+      "hashing",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Mar/06/2023 18:41"
+  },
   "CF196302355": {
     "contest_id": 1800,
     "language": "C++17 (GCC 7-32)",
