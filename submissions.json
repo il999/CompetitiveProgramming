@@ -1388,6 +1388,23 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF197286976": {
+    "contest_id": 1804,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1804/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lame King",
+    "problem_url": "https://codeforces.com/contest/1804/problem/A",
+    "submission_id": "CF197286976",
+    "submission_url": "https://codeforces.com/contest/1804/submission/197286976",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/13/2023 18:54"
+  },
   "CF197287684": {
     "contest_id": 1804,
     "language": "C++17 (GCC 7-32)",
