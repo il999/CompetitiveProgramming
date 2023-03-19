@@ -1388,6 +1388,24 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF198264223": {
+    "contest_id": 1807,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1807/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Interview",
+    "problem_url": "https://codeforces.com/contest/1807/problem/E",
+    "submission_id": "CF198264223",
+    "submission_url": "https://codeforces.com/contest/1807/submission/198264223",
+    "tags": [
+      "binary search",
+      "implementation",
+      "interactive",
+      "*1300"
+    ],
+    "timestamp": "Mar/19/2023 18:02"
+  },
   "CF198265365": {
     "contest_id": 1807,
     "language": "C++17 (GCC 7-32)",
