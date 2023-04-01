@@ -1388,6 +1388,25 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF200140640": {
+    "contest_id": 1812,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1812/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Are You a Robot?",
+    "problem_url": "https://codeforces.com/contest/1812/problem/A",
+    "submission_id": "CF200140640",
+    "submission_url": "https://codeforces.com/contest/1812/submission/200140640",
+    "tags": [
+      "*special problem",
+      "*special problem",
+      "*special problem",
+      "expression parsing",
+      "strings"
+    ],
+    "timestamp": "Apr/01/2023 15:39"
+  },
   "CF200172136": {
     "contest_id": 1812,
     "language": "C++17 (GCC 7-32)",
