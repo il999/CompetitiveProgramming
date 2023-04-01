@@ -1388,6 +1388,24 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF200172136": {
+    "contest_id": 1812,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1812/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Trivial Conjecture",
+    "problem_url": "https://codeforces.com/contest/1812/problem/D",
+    "submission_id": "CF200172136",
+    "submission_url": "https://codeforces.com/contest/1812/submission/200172136",
+    "tags": [
+      "*special problem",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Apr/01/2023 16:02"
+  },
   "CF201265838": {
     "contest_id": 1797,
     "language": "C++17 (GCC 7-32)",
