@@ -1388,6 +1388,24 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF201485509": {
+    "contest_id": 1816,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1816/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ian Visits Mary",
+    "problem_url": "https://codeforces.com/contest/1816/problem/A",
+    "submission_id": "CF201485509",
+    "submission_url": "https://codeforces.com/contest/1816/submission/201485509",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Apr/09/2023 15:53"
+  },
   "CF201508559": {
     "contest_id": 1816,
     "language": "C++17 (GCC 7-32)",
