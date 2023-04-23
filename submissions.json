@@ -1388,6 +1388,23 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF203189467": {
+    "contest_id": 1811,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1811/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Conveyor Belts",
+    "problem_url": "https://codeforces.com/contest/1811/problem/B",
+    "submission_id": "CF203189467",
+    "submission_url": "https://codeforces.com/contest/1811/submission/203189467",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/23/2023 20:40"
+  },
   "CF203489102": {
     "contest_id": 1822,
     "language": "C++17 (GCC 7-32)",
