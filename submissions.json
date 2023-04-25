@@ -1388,6 +1388,23 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF203491019": {
+    "contest_id": 1822,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1822/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Super-Permutation",
+    "problem_url": "https://codeforces.com/contest/1822/problem/D",
+    "submission_id": "CF203491019",
+    "submission_url": "https://codeforces.com/contest/1822/submission/203491019",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Apr/25/2023 22:12"
+  },
   "CF203492792": {
     "contest_id": 1822,
     "language": "C++17 (GCC 7-32)",
