@@ -1388,6 +1388,24 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF203984837": {
+    "contest_id": 1818,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1818/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Almost Increasing Subsequence",
+    "problem_url": "https://codeforces.com/contest/1818/problem/C",
+    "submission_id": "CF203984837",
+    "submission_url": "https://codeforces.com/contest/1818/submission/203984837",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Apr/29/2023 23:37"
+  },
   "CF204015334": {
     "contest_id": 1818,
     "language": "C++17 (GCC 7-32)",
