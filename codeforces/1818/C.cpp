@@ -26,8 +26,8 @@ int main()
     vector<int> end(n+1);
     vector<int> totpre(n+1);
     vector<bool> add(n+1);
-    vector<bool> started(n+2);
-    vector<bool> ended(n+1);
+   // vector<bool> started(n+2);
+    //vector<bool> ended(n+1);
     for(int i=0;i<n;i++){
         if(i<n-2&&a[i]>=a[i+1]&&a[i+1]>=a[i+2]){
             add[i]=1;
@@ -36,11 +36,11 @@ int main()
         }
         if(add[i]&&(i==n-1||a[i]<a[i+1])){
             end[i+1]++;
-            ended[i+1]=1;
+          //  ended[i+1]=1;
         }
         if(add[i]&&(i==0||a[i]>a[i-1])){
             start[i+1]++;
-            started[i+1]=1;
+           // started[i+1]=1;
         }
         if(add[i])totpre[i+1]++;
     }
@@ -61,14 +61,14 @@ int main()
             continue;
         }
         int reduce=0;
-        if(!started[r]&&!ended[r]&&add[r-1]){
+        if(add[r-1]){
             reduce++;
         }
-         if(!ended[l]&&!started[l]&&add[l-1]){
+         if(add[l-1]){
             reduce++;
         }
         //cout<<totpre[r]-totpre[l-1]<<" "<<start[r]-start[l-1]<<" "<<end[r]-end[l-1]<<"\n";
-        cout<<r-l+1-(totpre[r]-totpre[l-1]-(start[r]-start[l-1])-(end[r]-end[l-1])-reduce)<<"\n";
+        cout<<r-l+1-(totpre[r]-totpre[l-1]-(start[r-1]-start[l])-(end[r-1]-end[l])-reduce)<<"\n";
     }
    
   
