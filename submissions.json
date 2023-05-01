@@ -1388,6 +1388,24 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF204118752": {
+    "contest_id": 1823,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1823/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A-characteristic",
+    "problem_url": "https://codeforces.com/contest/1823/problem/A",
+    "submission_id": "CF204118752",
+    "submission_url": "https://codeforces.com/contest/1823/submission/204118752",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/01/2023 09:24"
+  },
   "CF204119517": {
     "contest_id": 1823,
     "language": "C++17 (GCC 7-32)",
