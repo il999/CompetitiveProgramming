@@ -1388,6 +1388,24 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF204122364": {
+    "contest_id": 1823,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1823/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Strongly Composite",
+    "problem_url": "https://codeforces.com/contest/1823/problem/C",
+    "submission_id": "CF204122364",
+    "submission_url": "https://codeforces.com/contest/1823/submission/204122364",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "May/01/2023 10:13"
+  },
   "CF204133022": {
     "contest_id": 1823,
     "language": "C++17 (GCC 7-32)",

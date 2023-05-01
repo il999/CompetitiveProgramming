@@ -52,29 +52,25 @@ void solve(){
    //two primes done in two;
    int a[n];
    map<int,int> m;
-  
+   
 
    
    for(int i=0;i<n;i++){
     cin>>a[i];
-    
-    while(a[i]>1){
-        if(primes[a[i]]){
-            m[a[i]]++;
-            a[i]=1;
-            continue;
-        }
-        for(int j=0;j<prim.size();j++){
-            while(a[i]%prim[j]==0){
-                a[i]/=prim[j];
-                m[prim[j]]++;
+    int last=0;
+    for (int j = 2; j * j <= a[i]; j++) {
+                while (a[i] % j == 0) {
+                    a[i] /= j;
+                    m[j]++;
+                }
             }
-            if(prim[j]>a[i]) continue;
-        }
-        
-    }
+            if( a[i] != 1) {
+                m[a[i]]++;
+            }
+    
     
    }
+   
    int extra=0;
    int k=0;
    for(auto it : m){
