@@ -1388,6 +1388,25 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF204358379": {
+    "contest_id": 1818,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1818/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Fish Graph",
+    "problem_url": "https://codeforces.com/contest/1818/problem/D",
+    "submission_id": "CF204358379",
+    "submission_url": "https://codeforces.com/contest/1818/submission/204358379",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "May/03/2023 17:58"
+  },
   "CF205136691": {
     "contest_id": 1825,
     "language": "C++17 (GCC 7-32)",
