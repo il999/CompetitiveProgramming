@@ -1388,6 +1388,23 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF205141604": {
+    "contest_id": 1825,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1825/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "LuoTianyi and the Show",
+    "problem_url": "https://codeforces.com/contest/1825/problem/C",
+    "submission_id": "CF205141604",
+    "submission_url": "https://codeforces.com/contest/1825/submission/205141604",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/08/2023 17:13"
+  },
   "CF205714598": {
     "contest_id": 1832,
     "language": "C++17 (GCC 7-32)",
