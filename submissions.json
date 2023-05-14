@@ -1388,6 +1388,24 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF205820246": {
+    "contest_id": 1832,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1832/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Sum",
+    "problem_url": "https://codeforces.com/contest/1832/problem/B",
+    "submission_id": "CF205820246",
+    "submission_url": "https://codeforces.com/contest/1832/submission/205820246",
+    "tags": [
+      "brute force",
+      "sortings",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "May/14/2023 11:29"
+  },
   "CF205822140": {
     "contest_id": 1832,
     "language": "C++17 (GCC 7-32)",
