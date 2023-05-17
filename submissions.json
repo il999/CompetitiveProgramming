@@ -1388,6 +1388,24 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF206250932": {
+    "contest_id": 1828,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1828/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Counting Orders",
+    "problem_url": "https://codeforces.com/contest/1828/problem/C",
+    "submission_id": "CF206250932",
+    "submission_url": "https://codeforces.com/contest/1828/submission/206250932",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "May/17/2023 17:32"
+  },
   "CF206356781": {
     "contest_id": 1828,
     "language": "C++17 (GCC 7-32)",
