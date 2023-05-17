@@ -1388,6 +1388,23 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF206250418": {
+    "contest_id": 1828,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1828/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation Swap",
+    "problem_url": "https://codeforces.com/contest/1828/problem/B",
+    "submission_id": "CF206250418",
+    "submission_url": "https://codeforces.com/contest/1828/submission/206250418",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "May/17/2023 17:26"
+  },
   "CF206250932": {
     "contest_id": 1828,
     "language": "C++17 (GCC 7-32)",
