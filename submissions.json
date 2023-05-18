@@ -1388,6 +1388,27 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF206356781": {
+    "contest_id": 1828,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1828/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Range Sorting (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1828/problem/D1",
+    "submission_id": "CF206356781",
+    "submission_url": "https://codeforces.com/contest/1828/submission/206356781",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "dsu",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/18/2023 16:09"
+  },
   "CF206638220": {
     "contest_id": 1833,
     "language": "C++17 (GCC 7-32)",
