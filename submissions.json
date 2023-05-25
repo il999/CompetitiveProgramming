@@ -1388,6 +1388,23 @@
     ],
     "timestamp": "Jun/14/2022 19:54"
   },
+  "CF207241920": {
+    "contest_id": 1837,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1837/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Best Binary String",
+    "problem_url": "https://codeforces.com/contest/1837/problem/C",
+    "submission_id": "CF207241920",
+    "submission_url": "https://codeforces.com/contest/1837/submission/207241920",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "May/25/2023 17:01"
+  },
   "CF207581156": {
     "contest_id": 1831,
     "language": "C++17 (GCC 7-32)",
