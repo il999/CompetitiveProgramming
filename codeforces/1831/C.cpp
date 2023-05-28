@@ -87,36 +87,30 @@ void solve(){
     while(!q.empty()){
         array<int,3> cur=q.top();
         q.pop();
-        int x=cur[0];
-        int y=cur[1];
-        int z=cur[2];
-        for(int i=0;i<v[y].size();i++){
+        for(int i=0;i<v[cur[1]].size();i++){
             int lower=1;
-            int curedge=v[y][i][1];
-            if(curedge>z){
+            if(v[cur[1]][i][1]>cur[2]){
                 lower=0;
             }
-            int u=v[y][i][0];
-            
-            if(cost[u][0]>x+lower){
-                cost[u][0]=x+lower;
-                cost[u][1]=curedge;
-                tp[0]=cost[u][0];
-                tp[1]=u;
-                tp[2]=cost[u][1];
+            if(cost[v[cur[1]][i][0]][0]>cur[0]+lower){
+                cost[v[cur[1]][i][0]][0]=cur[0]+lower;
+                cost[v[cur[1]][i][0]][1]=v[cur[1]][i][1];
+                tp[0]=cost[v[cur[1]][i][0]][0];
+                tp[1]=v[cur[1]][i][0];
+                tp[2]=cost[v[cur[1]][i][0]][1];
                 q.push(tp);
 
-            }else if(cost[u][0]==x+lower&&cost[u][1]>curedge){
-                cost[u][1]=curedge;
-                tp[0]=cost[u][0];
-                tp[1]=u;
-                tp[2]=cost[u][1];
+            }else if(cost[v[cur[1]][i][0]][0]==cur[0]+lower&&cost[v[cur[1]][i][0]][1]>v[cur[1]][i][1]){
+                cost[v[cur[1]][i][0]][1]=v[cur[1]][i][1];
+                tp[0]=cost[v[cur[1]][i][0]][0];
+                tp[1]=v[cur[1]][i][0];
+                tp[2]=cost[v[cur[1]][i][0]][1];
                 q.push(tp);
 
             }
         }
-        //cout<<x<<" "<<y<<" "<<z<<"\n";
-        ans=x;
+        //cout<<cur[0]<<" "<<cur[1]<<" "<<cur[2]<<"\n";
+        ans=cur[0];
     }
     //dfs(1,-1,0);
     cout<<ans<<"\n";
