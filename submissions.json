@@ -1,4 +1,22 @@
 {
+  "CF208518713": {
+    "contest_id": 1838,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1838/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "No Prime Differences",
+    "problem_url": "https://codeforces.com/contest/1838/problem/C",
+    "submission_id": "CF208518713",
+    "submission_url": "https://codeforces.com/contest/1838/submission/208518713",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Jun/04/2023 19:44"
+  },
   "CF210880091": {
     "contest_id": 1842,
     "language": "C++17 (GCC 7-32)",
