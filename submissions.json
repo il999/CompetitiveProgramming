@@ -1,4 +1,21 @@
 {
+  "CF208442321": {
+    "contest_id": 1838,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1838/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Blackboard List",
+    "problem_url": "https://codeforces.com/contest/1838/problem/A",
+    "submission_id": "CF208442321",
+    "submission_url": "https://codeforces.com/contest/1838/submission/208442321",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/04/2023 15:54"
+  },
   "CF208487646": {
     "contest_id": 1838,
     "language": "C++17 (GCC 7-32)",
