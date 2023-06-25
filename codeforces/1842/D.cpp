@@ -68,12 +68,14 @@ void solve(){
     vector<ll> constraint(n+1,1e18+1);
     vector<bool> ingame(n+1,1);
     ingame[n]=0;
+    string orig="";
     for(int i=0;i<v[n].size();i++){
-        //if(s[0]=='0') break;
+        
         //constraint[v[n][i][1]]=v[n][i][0];
         if(v[n][i][0]==0){
             int u=v[n][i][1];
             for(int j=0;j<v[u].size();j++){
+                
                 if(v[u][j][0]<constraint[v[u][j][1]]){
                     if(constraint[v[u][j][1]]==1e18+1||v[u][j][0]==0){
                         v[n].push_back(v[u][j]);
@@ -91,11 +93,15 @@ void solve(){
         
 
     }
+    for(int i=0;i<n;i++){
+        orig+='0';
+    }
     vector<string> ans1;
     vector<ll> ans2;
     
     while(!pq.empty()){
-        if(s[0]=='0') break;
+        if(s[0]=='0')break;
+       // cout<<ingame[64]<<"\n";
       //  cout<<"ingam\n";
         vector<ll > get_ridof;
         ll cur=0;
@@ -111,18 +117,21 @@ void solve(){
             
             pq.pop();
         }
+
         
     
         //tp[0]=s;
         //tp[1]=cur-t;
-        if(cur!=0){
+        if(cur!=0&&get_ridof.size()){
             ans1.push_back(s);
             ans2.push_back(cur-t);
         }
         //cout<<s<<" "<<cur-t<<"\n";
         t+=(cur-t);
+        
         for(int i=0;i<get_ridof.size();i++){
             int u=get_ridof[i];
+            
             for(int j=0;j<v[u].size();j++){
                 
                 if(ingame[v[u][j][1]]&&constraint[v[u][j][1]]>t+v[u][j][0]){
@@ -132,6 +141,8 @@ void solve(){
                         ingame[v[u][j][1]]=0;
                     }else{
                         v[u][j][0]+=t;
+                      //  cout<<v[u][j][1]<<"here\n";
+                        
                         pq.push(v[u][j]);
                     }
                     
@@ -139,7 +150,10 @@ void solve(){
             }
             s[u-1]='0';
         }
-        if(s[0]=='0') break;
+        if(s[0]=='0'){
+            break;
+        }
+      
     }
     int tem=0;
     for(int i=0;i<n;i++){
@@ -147,14 +161,16 @@ void solve(){
             tem++;
         }
     }
-    if(s[0]=='0'||tem==0){
+    if(tem==0||s[0]=='0'){
         //cout<<ans1.size()<<" ";
-        ll tot=0;
+        ll tot1=0;
+        
+    //    cout<<s<<"ooga \n";
         for(int i=0;i<ans2.size();i++){
-            tot+=ans2[i];
+            tot1+=ans2[i];
 
         }
-        cout<<tot<<" "<<ans1.size()<<"\n";
+        cout<<tot1<<" "<<ans1.size()<<"\n";
         for(int i=0;i<ans1.size();i++){
             cout<<ans1[i]<<" "<<ans2[i]<<"\n";
         }
