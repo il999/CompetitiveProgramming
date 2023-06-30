@@ -1,4 +1,23 @@
 {
+  "CF211598523": {
+    "contest_id": 86,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/86/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Powerful array",
+    "problem_url": "https://codeforces.com/contest/86/problem/D",
+    "submission_id": "CF211598523",
+    "submission_url": "https://codeforces.com/contest/86/submission/211598523",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers",
+      "*2200"
+    ],
+    "timestamp": "Jun/30/2023 11:22"
+  },
   "CF216762181": {
     "contest_id": 1368,
     "language": "C++17 (GCC 7-32)",
