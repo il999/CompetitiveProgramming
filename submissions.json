@@ -1,4 +1,21 @@
 {
+  "CF217898860": {
+    "contest_id": 1857,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1857/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Coloring",
+    "problem_url": "https://codeforces.com/contest/1857/problem/A",
+    "submission_id": "CF217898860",
+    "submission_url": "https://codeforces.com/contest/1857/submission/217898860",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/08/2023 17:36"
+  },
   "CF217900639": {
     "contest_id": 1857,
     "language": "C++17 (GCC 7-32)",
