@@ -1,4 +1,22 @@
 {
+  "CF218921926": {
+    "contest_id": 1858,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1858/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Buttons",
+    "problem_url": "https://codeforces.com/contest/1858/problem/A",
+    "submission_id": "CF218921926",
+    "submission_url": "https://codeforces.com/contest/1858/submission/218921926",
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/15/2023 15:38"
+  },
   "CF218952508": {
     "contest_id": 1858,
     "language": "C++17 (GCC 7-32)",
