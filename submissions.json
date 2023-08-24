@@ -1,4 +1,20 @@
 {
+  "CF220179989": {
+    "contest_id": 1862,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1862/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sequence Game",
+    "problem_url": "https://codeforces.com/contest/1862/problem/B",
+    "submission_id": "CF220179989",
+    "submission_url": "https://codeforces.com/contest/1862/submission/220179989",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Aug/24/2023 15:51"
+  },
   "CF220199942": {
     "contest_id": 1862,
     "language": "C++17 (GCC 7-32)",
