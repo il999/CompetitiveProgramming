@@ -1,4 +1,23 @@
 {
+  "CF220221601": {
+    "contest_id": 1862,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1862/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ice Cream Balls",
+    "problem_url": "https://codeforces.com/contest/1862/problem/D",
+    "submission_id": "CF220221601",
+    "submission_url": "https://codeforces.com/contest/1862/submission/220221601",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Aug/24/2023 16:24"
+  },
   "CF220252707": {
     "contest_id": 1862,
     "language": "C++17 (GCC 7-32)",
