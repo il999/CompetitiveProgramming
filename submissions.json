@@ -1,4 +1,22 @@
 {
+  "CF229409766": {
+    "contest_id": 1877,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1877/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Effects of Anti Pimples",
+    "problem_url": "https://codeforces.com/contest/1877/problem/D",
+    "submission_id": "CF229409766",
+    "submission_url": "https://codeforces.com/contest/1877/submission/229409766",
+    "tags": [
+      "combinatorics",
+      "number theory",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Oct/23/2023 12:10"
+  },
   "CF231314099": {
     "contest_id": 1891,
     "language": "C++17 (GCC 7-32)",
