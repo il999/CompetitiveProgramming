@@ -1,4 +1,22 @@
 {
+  "CF229403689": {
+    "contest_id": 1877,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1877/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Helmets in Night Light",
+    "problem_url": "https://codeforces.com/contest/1877/problem/B",
+    "submission_id": "CF229403689",
+    "submission_url": "https://codeforces.com/contest/1877/submission/229403689",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Oct/23/2023 11:18"
+  },
   "CF229406337": {
     "contest_id": 1877,
     "language": "C++17 (GCC 7-32)",
