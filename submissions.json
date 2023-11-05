@@ -1,4 +1,21 @@
 {
+  "CF231469604": {
+    "contest_id": 1776,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1776/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Italian Data Centers",
+    "problem_url": "https://codeforces.com/contest/1776/problem/J",
+    "submission_id": "CF231469604",
+    "submission_url": "https://codeforces.com/contest/1776/submission/231469604",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "*2500"
+    ],
+    "timestamp": "Nov/05/2023 13:42"
+  },
   "CF231473844": {
     "contest_id": 1776,
     "language": "C++20 (GCC 11-64)",
