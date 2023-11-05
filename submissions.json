@@ -1,4 +1,23 @@
 {
+  "CF231445680": {
+    "contest_id": 1776,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/1776/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Another Wine Tasting Event",
+    "problem_url": "https://codeforces.com/contest/1776/problem/G",
+    "submission_id": "CF231445680",
+    "submission_url": "https://codeforces.com/contest/1776/submission/231445680",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "strings",
+      "*2100"
+    ],
+    "timestamp": "Nov/05/2023 10:20"
+  },
   "CF231446238": {
     "contest_id": 1776,
     "language": "C++17 (GCC 7-32)",
