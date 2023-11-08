@@ -1,4 +1,22 @@
 {
+  "CF231972478": {
+    "contest_id": 1867,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1867/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Salyg1n and Array (simple version)",
+    "problem_url": "https://codeforces.com/contest/1867/problem/E1",
+    "submission_id": "CF231972478",
+    "submission_url": "https://codeforces.com/contest/1867/submission/231972478",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Nov/08/2023 17:22"
+  },
   "CF231974632": {
     "contest_id": 1867,
     "language": "C++17 (GCC 7-32)",
