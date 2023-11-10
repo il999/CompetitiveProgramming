@@ -1,4 +1,22 @@
 {
+  "CF232284542": {
+    "contest_id": 1891,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1891/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Suspicious logarithms",
+    "problem_url": "https://codeforces.com/contest/1891/problem/D",
+    "submission_id": "CF232284542",
+    "submission_url": "https://codeforces.com/contest/1891/submission/232284542",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Nov/10/2023 18:48"
+  },
   "CF232441323": {
     "contest_id": 1867,
     "language": "C++17 (GCC 7-32)",
