@@ -58,9 +58,12 @@ void solve() {
         else if (s[i] == 'D')y--;
         else if (s[i] == 'R') x++;
         else x--;
-        
+        if (m.find({x, y}) == m.end()) {
+            m[{x, y}] = vector<int>();
+            m[{x, y}].push_back(i);
+        }else{
             m[{x,y}].push_back(i);
-        
+        }
         cur.push_back({x, y});
     }
     cur2.push_back({0, 0});
@@ -71,9 +74,12 @@ void solve() {
         else if (s[i] == 'D')y--;
         else if (s[i] == 'R') x++;
         else x--;
-        
+        if (m2.find({x, y}) == m2.end()) {
+            m2[{x, y}] = vector<int>();
+            m2[{x, y}].push_back(i);
+        }else{
             m2[{x,y}].push_back(i);
-        
+        }
         cur2.push_back({x, y});
     }
     while (q--) {
