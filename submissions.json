@@ -1,4 +1,21 @@
 {
+  "CF239213559": {
+    "contest_id": 551,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/551/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "GukiZ hates Boxes",
+    "problem_url": "https://codeforces.com/contest/551/problem/C",
+    "submission_id": "CF239213559",
+    "submission_url": "https://codeforces.com/contest/551/submission/239213559",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Dec/28/2023 14:36"
+  },
   "CF244849833": {
     "contest_id": 1902,
     "language": "C++17 (GCC 7-32)",
