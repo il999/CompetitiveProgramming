@@ -1,4 +1,21 @@
 {
+  "CF246822837": {
+    "contest_id": 1930,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1930/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maximise The Score",
+    "problem_url": "https://codeforces.com/contest/1930/problem/A",
+    "submission_id": "CF246822837",
+    "submission_url": "https://codeforces.com/contest/1930/submission/246822837",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Feb/17/2024 14:37"
+  },
   "CF246841830": {
     "contest_id": 1930,
     "language": "C++17 (GCC 7-32)",
