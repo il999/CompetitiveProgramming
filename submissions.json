@@ -1,4 +1,22 @@
 {
+  "CF251526651": {
+    "contest_id": 1948,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1948/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tandem Repeats?",
+    "problem_url": "https://codeforces.com/contest/1948/problem/D",
+    "submission_id": "CF251526651",
+    "submission_url": "https://codeforces.com/contest/1948/submission/251526651",
+    "tags": [
+      "brute force",
+      "strings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Mar/15/2024 16:16"
+  },
   "CF252303309": {
     "contest_id": 1579,
     "language": "C++17 (GCC 7-32)",
