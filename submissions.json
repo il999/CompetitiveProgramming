@@ -1,4 +1,25 @@
 {
+  "CF252484452": {
+    "contest_id": 1704,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1704/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Count Seconds",
+    "problem_url": "https://codeforces.com/contest/1704/problem/E",
+    "submission_id": "CF252484452",
+    "submission_url": "https://codeforces.com/contest/1704/submission/252484452",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "implementation",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Mar/20/2024 17:13"
+  },
   "CF252575277": {
     "contest_id": 1704,
     "language": "C++17 (GCC 7-32)",

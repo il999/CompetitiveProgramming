@@ -53,6 +53,21 @@ struct BIT {
     }
     int query(int x, int y) { return query(y) - query(x - 1); }
 };
+int thing=0;
+void dfs(int u,vector<bool>& vis,vector<vector<int> >& v,vector<int>& a,vector<int>& incoming,vector<bool>& changed){
+    vis[u]=1;
+    for(int i=0;i<v[u].size();i++){
+        if(!vis[v[u][i]]) {
+            if(a[u]!=0&&a[v[u][i]]==0){
+                a[v[u][i]]=1ll;
+                changed[a[v[u][i]]]=1;
+                thing++;
+
+            }
+            dfs(v[u][i],vis,v,a,incoming,changed);
+        }
+    }
+}
 void solve() {
 
     int n,m;
@@ -107,6 +122,8 @@ void solve() {
     BIT fen(n+2);
   //  int ans=0;
  //   cout<<"why not here\n";
+   // int ans=0;
+    thing=0;
 
 
     //haszerochild;
@@ -141,8 +158,8 @@ void solve() {
 }
 
 signed main(){
-   ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+   // ios_base::sync_with_stdio(false);
+    //cin.tie(NULL);
     int t;
     cin>>t;
     while(t--) solve();
