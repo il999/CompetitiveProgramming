@@ -1,4 +1,24 @@
 {
+  "CF252786740": {
+    "contest_id": 1946,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1946/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tree Cutting",
+    "problem_url": "https://codeforces.com/contest/1946/problem/C",
+    "submission_id": "CF252786740",
+    "submission_url": "https://codeforces.com/contest/1946/submission/252786740",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "implementation",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Mar/22/2024 15:43"
+  },
   "CF252803134": {
     "contest_id": 1946,
     "language": "C++17 (GCC 7-32)",
