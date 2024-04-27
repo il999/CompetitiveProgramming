@@ -1,4 +1,22 @@
 {
+  "CF258418879": {
+    "contest_id": 1966,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1966/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Card Exchange",
+    "problem_url": "https://codeforces.com/contest/1966/problem/A",
+    "submission_id": "CF258418879",
+    "submission_url": "https://codeforces.com/contest/1966/submission/258418879",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Apr/27/2024 15:40"
+  },
   "CF258425819": {
     "contest_id": 1966,
     "language": "C++17 (GCC 7-32)",
