@@ -1,4 +1,23 @@
 {
+  "CF258449170": {
+    "contest_id": 1966,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1966/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Missing Subsequence Sum",
+    "problem_url": "https://codeforces.com/contest/1966/problem/D",
+    "submission_id": "CF258449170",
+    "submission_url": "https://codeforces.com/contest/1966/submission/258449170",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Apr/27/2024 16:41"
+  },
   "CF258866546": {
     "contest_id": 1972,
     "language": "C++17 (GCC 7-32)",
