@@ -1,4 +1,21 @@
 {
+  "CF258425819": {
+    "contest_id": 1966,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1966/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rectangle Filling",
+    "problem_url": "https://codeforces.com/contest/1966/problem/B",
+    "submission_id": "CF258425819",
+    "submission_url": "https://codeforces.com/contest/1966/submission/258425819",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Apr/27/2024 15:50"
+  },
   "CF258437592": {
     "contest_id": 1966,
     "language": "C++17 (GCC 7-32)",
