@@ -46,12 +46,15 @@ void solve() {
     cin>>n>>k;
     int c=0;
     int a[n];
+    int ma=0;
     for(int i=0;i<n;i++){
         cin>>a[i];
-        c=max(a[i],c);
+        c+=a[i];
+        ma=max(ma,a[i]);
     }
     int low=0;
-    int high=c+k;
+    int high=ma+k+1;
+    int works=0;
     while(low<high){
         int m = (low+high)/2;
         int needed=0;
@@ -61,28 +64,23 @@ void solve() {
         }
         if(needed<=k){
             low=m+1;
+            works=m;
         }else{
             high=m;
         }
     }
-    int needed=0;
+    int  needed=0;
     for(int i=0;i<n;i++){
-        if(a[i]>low) continue;
-        needed+=low-a[i];
+        if(a[i]>works) continue;
+        needed+=works-a[i];
     }
-    if(needed>k) low--;
-    needed=0;
-    for(int i=0;i<n;i++){
-        if(a[i]>low) continue;
-        needed+=low-a[i];
-    }
-    if(low==0){
+    if(works==0){
         cout<<0<<"\n";
         return;
     }
-    int perm=(n)*(low-1)+1+(k-needed);
+    int perm=(n)*(works-1)+1+(k-needed);
     for(int i=0;i<n;i++){
-        if(a[i]>low){
+        if(a[i]>works){
             perm++;
         }
     }
