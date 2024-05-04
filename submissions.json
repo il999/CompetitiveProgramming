@@ -1,4 +1,21 @@
 {
+  "CF259476644": {
+    "contest_id": 1970,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1970/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Trails (Medium)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/E2",
+    "submission_id": "CF259476644",
+    "submission_url": "https://codeforces.com/contest/1970/submission/259476644",
+    "tags": [
+      "dp",
+      "matrices",
+      "*2000"
+    ],
+    "timestamp": "May/04/2024 09:30"
+  },
   "CF259485925": {
     "contest_id": 1970,
     "language": "C++17 (GCC 7-32)",
