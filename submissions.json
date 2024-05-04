@@ -1,4 +1,20 @@
 {
+  "CF259485925": {
+    "contest_id": 1970,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1970/B1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "Exact Neighbours (Easy)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/B1",
+    "submission_id": "CF259485925",
+    "submission_url": "https://codeforces.com/contest/1970/submission/259485925",
+    "tags": [
+      "constructive algorithms",
+      "*1900"
+    ],
+    "timestamp": "May/04/2024 10:35"
+  },
   "CF259487533": {
     "contest_id": 1970,
     "language": "C++17 (GCC 7-32)",
