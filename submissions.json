@@ -1,4 +1,21 @@
 {
+  "CF259464025": {
+    "contest_id": 1970,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1970/A1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A1",
+    "problem_name": "Balanced Shuffle (Easy)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/A1",
+    "submission_id": "CF259464025",
+    "submission_url": "https://codeforces.com/contest/1970/submission/259464025",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "May/04/2024 08:10"
+  },
   "CF259466122": {
     "contest_id": 1970,
     "language": "C++17 (GCC 7-32)",
