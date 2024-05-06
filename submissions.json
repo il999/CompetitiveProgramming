@@ -1,4 +1,22 @@
 {
+  "CF259745004": {
+    "contest_id": 1714,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1714/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Build a Tree and That Is It",
+    "problem_url": "https://codeforces.com/contest/1714/problem/F",
+    "submission_id": "CF259745004",
+    "submission_url": "https://codeforces.com/contest/1714/submission/259745004",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/06/2024 13:03"
+  },
   "CF261353296": {
     "contest_id": 1973,
     "language": "C++17 (GCC 7-32)",
