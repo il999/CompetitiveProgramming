@@ -1,4 +1,22 @@
 {
+  "CF262565314": {
+    "contest_id": 1975,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1975/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Chamo and Mocha's Array",
+    "problem_url": "https://codeforces.com/contest/1975/problem/C",
+    "submission_id": "CF262565314",
+    "submission_url": "https://codeforces.com/contest/1975/submission/262565314",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "May/25/2024 16:25"
+  },
   "CF262682496": {
     "contest_id": 1975,
     "language": "C++17 (GCC 7-32)",
