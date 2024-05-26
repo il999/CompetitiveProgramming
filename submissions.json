@@ -1,4 +1,25 @@
 {
+  "CF262682496": {
+    "contest_id": 1975,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1975/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Paint the Tree",
+    "problem_url": "https://codeforces.com/contest/1975/problem/D",
+    "submission_id": "CF262682496",
+    "submission_url": "https://codeforces.com/contest/1975/submission/262682496",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "shortest paths",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 10:36"
+  },
   "CF263272477": {
     "contest_id": 1976,
     "language": "C++17 (GCC 7-32)",
