@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-13 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++17 (GCC 7-32)](./codeforces/1983/C.cpp) | `bitmasks` `dp` `greedy` `implementation` | Jul/07/2024 16:17 | 
-12 | [B - Corner Twist](https://codeforces.com/contest/1983/problem/B) | [C++17 (GCC 7-32)](./codeforces/1983/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` | Jul/07/2024 15:46 | 
-11 | [A - Array Divisibility](https://codeforces.com/contest/1983/problem/A) | [C++17 (GCC 7-32)](./codeforces/1983/A.cpp) | `constructive algorithms` `math` | Jul/07/2024 15:37 | 
-10 | [C - Movie Critics](https://codeforces.com/contest/250/problem/C) | [C++17 (GCC 7-32)](./codeforces/250/C.cpp) | `greedy` `*1600` | Jun/11/2024 21:41 | 
-9 | [D - ''a'' String Problem](https://codeforces.com/contest/1984/problem/D) | [C++17 (GCC 7-32)](./codeforces/1984/D.cpp) | `brute force` `hashing` `implementation` `math` `string suffix structures` `strings` `*2000` | Jun/09/2024 17:58 | 
-8 | [C2 - Magnitude (Hard Version)](https://codeforces.com/contest/1984/problem/C2) | [C++17 (GCC 7-32)](./codeforces/1984/C2.cpp) | `combinatorics` `dp` `greedy` `math` `*1700` | Jun/09/2024 16:21 | 
-7 | [C1 - Magnitude (Easy Version)](https://codeforces.com/contest/1984/problem/C1) | [C++17 (GCC 7-32)](./codeforces/1984/C1.cpp) | `dp` `greedy` `math` `*1300` | Jun/09/2024 16:00 | 
-6 | [B - Large Addition](https://codeforces.com/contest/1984/problem/B) | [C++17 (GCC 7-32)](./codeforces/1984/B.cpp) | `implementation` `math` `*1100` | Jun/09/2024 15:54 | 
-5 | [A - Strange Splitting](https://codeforces.com/contest/1984/problem/A) | [C++17 (GCC 7-32)](./codeforces/1984/A.cpp) | `constructive algorithms` `*800` | Jun/09/2024 15:44 | 
-4 | [C - Turtle and an Incomplete Sequence](https://codeforces.com/contest/1981/problem/C) | [C++17 (GCC 7-32)](./codeforces/1981/C.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `implementation` `math` `*1800` | May/31/2024 12:11 | 
-3 | [B - Turtle and an Infinite Sequence](https://codeforces.com/contest/1981/problem/B) | [C++17 (GCC 7-32)](./codeforces/1981/B.cpp) | `bitmasks` `math` `*1300` | May/31/2024 11:13 | 
-2 | [A - Turtle and Piggy Are Playing a Game](https://codeforces.com/contest/1981/problem/A) | [C++17 (GCC 7-32)](./codeforces/1981/A.cpp) | `brute force` `greedy` `math` `*800` | May/31/2024 11:07 | 
-1 | [C - Job Interview](https://codeforces.com/contest/1976/problem/C) | [C++17 (GCC 7-32)](./codeforces/1976/C.cpp) | `binary search` `dp` `greedy` `implementation` `two pointers` `*1600` | May/30/2024 17:49 | 
+14 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++17 (GCC 7-32)](./codeforces/1983/C.cpp) | `bitmasks` `dp` `greedy` `implementation` | Jul/07/2024 16:17 | 
+13 | [B - Corner Twist](https://codeforces.com/contest/1983/problem/B) | [C++17 (GCC 7-32)](./codeforces/1983/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` | Jul/07/2024 15:46 | 
+12 | [A - Array Divisibility](https://codeforces.com/contest/1983/problem/A) | [C++17 (GCC 7-32)](./codeforces/1983/A.cpp) | `constructive algorithms` `math` | Jul/07/2024 15:37 | 
+11 | [C - Movie Critics](https://codeforces.com/contest/250/problem/C) | [C++17 (GCC 7-32)](./codeforces/250/C.cpp) | `greedy` `*1600` | Jun/11/2024 21:41 | 
+10 | [D - ''a'' String Problem](https://codeforces.com/contest/1984/problem/D) | [C++17 (GCC 7-32)](./codeforces/1984/D.cpp) | `brute force` `hashing` `implementation` `math` `string suffix structures` `strings` `*2000` | Jun/09/2024 17:58 | 
+9 | [C2 - Magnitude (Hard Version)](https://codeforces.com/contest/1984/problem/C2) | [C++17 (GCC 7-32)](./codeforces/1984/C2.cpp) | `combinatorics` `dp` `greedy` `math` `*1700` | Jun/09/2024 16:21 | 
+8 | [C1 - Magnitude (Easy Version)](https://codeforces.com/contest/1984/problem/C1) | [C++17 (GCC 7-32)](./codeforces/1984/C1.cpp) | `dp` `greedy` `math` `*1300` | Jun/09/2024 16:00 | 
+7 | [B - Large Addition](https://codeforces.com/contest/1984/problem/B) | [C++17 (GCC 7-32)](./codeforces/1984/B.cpp) | `implementation` `math` `*1100` | Jun/09/2024 15:54 | 
+6 | [A - Strange Splitting](https://codeforces.com/contest/1984/problem/A) | [C++17 (GCC 7-32)](./codeforces/1984/A.cpp) | `constructive algorithms` `*800` | Jun/09/2024 15:44 | 
+5 | [C - Turtle and an Incomplete Sequence](https://codeforces.com/contest/1981/problem/C) | [C++17 (GCC 7-32)](./codeforces/1981/C.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `implementation` `math` `*1800` | May/31/2024 12:11 | 
+4 | [B - Turtle and an Infinite Sequence](https://codeforces.com/contest/1981/problem/B) | [C++17 (GCC 7-32)](./codeforces/1981/B.cpp) | `bitmasks` `math` `*1300` | May/31/2024 11:13 | 
+3 | [A - Turtle and Piggy Are Playing a Game](https://codeforces.com/contest/1981/problem/A) | [C++17 (GCC 7-32)](./codeforces/1981/A.cpp) | `brute force` `greedy` `math` `*800` | May/31/2024 11:07 | 
+2 | [C - Job Interview](https://codeforces.com/contest/1976/problem/C) | [C++17 (GCC 7-32)](./codeforces/1976/C.cpp) | `binary search` `dp` `greedy` `implementation` `two pointers` `*1600` | May/30/2024 17:49 | 
+1 | [B - Increase/Decrease/Copy](https://codeforces.com/contest/1976/problem/B) | [C++17 (GCC 7-32)](./codeforces/1976/B.cpp) | `greedy` `implementation` `*1100` | May/30/2024 15:56 | 
