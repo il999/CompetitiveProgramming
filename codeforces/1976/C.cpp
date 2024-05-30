@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <vector>
 #include <map>
@@ -14,28 +15,35 @@ using namespace std;
 void solve() {
     int n,m;
     cin>>n>>m;
-    int a[n+m+1];
-    int b[n+m+1];
+    int a[n+m+2];
+    int b[n+m+2];
     for(int i=0;i<n+m+1;i++){
         cin>>a[i];
     }
-    for(int i=0;i<n+m+1;i++) cin>>b[i];
+    for(int i=0;i<n+m+1;i++) {
+        cin>>b[i];
+    }
     int ans=0;
     int ntemp=0;
     int mtemp=0;
-    vector<int> isN(n+m+1);
+    vector<bool> isN(n+m+1);
     vector<int> firstnshafted(n+m+2,1e9);
     vector<int> firstmshafted(n+m+2,1e9);
     for(int i=0;i<n+m;i++){
-        if((ntemp!=n&&a[i]>b[i])||mtemp==m){
+        if((ntemp!=n&&a[i]>=b[i])||mtemp==m){
             ntemp++;
             ans+=a[i];
-            if(mtemp==m&&b[i]>a[i]) firstmshafted[i]=i;
-            isN[i]=1;
-        }else if((mtemp!=m&&a[i]<b[i])||ntemp==n){
+            if(mtemp==m&&b[i]>a[i]) {
+                firstmshafted[i] = i;
+            }
+          //  cout<<a[i]<<" "<<ans<<"\n";
+            isN[i]=true;
+        }else if((mtemp!=m&&a[i]<=b[i])||ntemp==n){
             mtemp++;
             ans+=b[i];
-            if(ntemp==n&&a[i]>b[i]) firstnshafted[i]=i;
+            if(ntemp==n&&a[i]>b[i]) {
+                firstnshafted[i] = i;
+            }
         }
     }
     for(int i=n+m;i>=0;i--){
@@ -43,9 +51,10 @@ void solve() {
         firstnshafted[i]=min(firstnshafted[i],firstnshafted[i+1]);
     }
     vector<int> toprint(n+m+1);
+   // cout<<ans<<"\n";
     toprint[n+m]=ans;
     for(int i=n+m-1;i>=0;i--){
-        int tpans=ans;
+        int tpans;
         if(isN[i]){
             if(firstnshafted[i+1]!=1e9) {
                 tpans =toprint[firstnshafted[i+1]]+a[firstnshafted[i+1]]-a[i];
