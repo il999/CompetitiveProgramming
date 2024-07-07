@@ -13,5 +13,6 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-2 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++17 (GCC 7-32)](./codeforces/1983/C.cpp) | `bitmasks` `dp` `greedy` `implementation` | Jul/07/2024 16:17 | 
-1 | [B - Corner Twist](https://codeforces.com/contest/1983/problem/B) | [C++17 (GCC 7-32)](./codeforces/1983/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` | Jul/07/2024 15:46 | 
+3 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++17 (GCC 7-32)](./codeforces/1983/C.cpp) | `bitmasks` `dp` `greedy` `implementation` | Jul/07/2024 16:17 | 
+2 | [B - Corner Twist](https://codeforces.com/contest/1983/problem/B) | [C++17 (GCC 7-32)](./codeforces/1983/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` | Jul/07/2024 15:46 | 
+1 | [A - Array Divisibility](https://codeforces.com/contest/1983/problem/A) | [C++17 (GCC 7-32)](./codeforces/1983/A.cpp) | `constructive algorithms` `math` | Jul/07/2024 15:37 | 
