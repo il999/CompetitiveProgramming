@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-498 | [F - Valuable Cards](https://codeforces.com/contest/1992/problem/F) | [C++17 (GCC 7-32)](./codeforces/1992/F.cpp) | `dp` `greedy` `number theory` `two pointers` | Jul/11/2024 21:03 | 
-497 | [E - Novice's Mistake](https://codeforces.com/contest/1992/problem/E) | [C++17 (GCC 7-32)](./codeforces/1992/E.cpp) | `brute force` `constructive algorithms` `math` | Jul/11/2024 17:01 | 
-496 | [D - Test of Love](https://codeforces.com/contest/1992/problem/D) | [C++17 (GCC 7-32)](./codeforces/1992/D.cpp) | `dp` `greedy` `implementation` | Jul/11/2024 16:26 | 
-495 | [C - Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C) | [C++17 (GCC 7-32)](./codeforces/1992/C.cpp) | `constructive algorithms` `math` | Jul/11/2024 16:13 | 
+499 | [F - Valuable Cards](https://codeforces.com/contest/1992/problem/F) | [C++17 (GCC 7-32)](./codeforces/1992/F.cpp) | `dp` `greedy` `number theory` `two pointers` | Jul/11/2024 21:03 | 
+498 | [E - Novice's Mistake](https://codeforces.com/contest/1992/problem/E) | [C++17 (GCC 7-32)](./codeforces/1992/E.cpp) | `brute force` `constructive algorithms` `math` | Jul/11/2024 17:01 | 
+497 | [D - Test of Love](https://codeforces.com/contest/1992/problem/D) | [C++17 (GCC 7-32)](./codeforces/1992/D.cpp) | `dp` `greedy` `implementation` | Jul/11/2024 16:26 | 
+496 | [C - Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C) | [C++17 (GCC 7-32)](./codeforces/1992/C.cpp) | `constructive algorithms` `math` | Jul/11/2024 16:13 | 
+495 | [B - Angry Monk](https://codeforces.com/contest/1992/problem/B) | [C++17 (GCC 7-32)](./codeforces/1992/B.cpp) | `math` `math` `sortings` | Jul/11/2024 16:09 | 
 494 | [D - Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | [C++17 (GCC 7-32)](./codeforces/1983/D.cpp) | `constructive algorithms` `divide and conquer` `graphs` `greedy` `math` `sortings` | Jul/08/2024 18:18 | 
 493 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++17 (GCC 7-32)](./codeforces/1983/C.cpp) | `bitmasks` `dp` `greedy` `implementation` | Jul/07/2024 16:17 | 
 492 | [B - Corner Twist](https://codeforces.com/contest/1983/problem/B) | [C++17 (GCC 7-32)](./codeforces/1983/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` | Jul/07/2024 15:46 | 
