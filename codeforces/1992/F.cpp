@@ -57,7 +57,7 @@ void solve() {
         if (x%a[i]!=0) continue;
         int top = sofar.size();
         for (int j = 0; j < top; j++) {
-            if (x % (a[i] * sofar[j])==0) {
+            if (__gcd(a[i] * sofar[j], x) == a[i] * sofar[j]) {
                 sofar.push_back(a[i] * sofar[j]);
             }
         }
