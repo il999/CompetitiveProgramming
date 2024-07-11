@@ -9317,6 +9317,22 @@
     ],
     "timestamp": "Jul/08/2024 18:18"
   },
+  "CF269960672": {
+    "contest_id": 1992,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1992/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Gorilla and Permutation",
+    "problem_url": "https://codeforces.com/contest/1992/problem/C",
+    "submission_id": "CF269960672",
+    "submission_url": "https://codeforces.com/contest/1992/submission/269960672",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Jul/11/2024 16:13"
+  },
   "CF269976047": {
     "contest_id": 1992,
     "language": "C++17 (GCC 7-32)",
