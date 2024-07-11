@@ -46,33 +46,33 @@ int divide(int x, int y) {
 vector<int> primes;
 void solve() {
     //100 friends, 10^5 apples
-    int n, x;
-    cin >> n >> x;
+    int n,x;
+    cin>>n>>x;
     vector<int> a(n);
-    for (int i = 0; i < n; i++) cin >> a[i];
-    int segments = 1;
+    for(int i=0;i<n;i++) cin>>a[i];
+    int segments=1;
     vector<int> sofar;
-
-    for (int i = 0; i < n; i++) {
-        if (x%a[i]!=0) continue;
-        int top = sofar.size();
-        for (int j = 0; j < top; j++) {
-            if (__gcd(a[i] * sofar[j], x) == a[i] * sofar[j]) {
-                sofar.push_back(a[i] * sofar[j]);
+ //   cout<<"HER\n";
+    for(int i=0;i<n;i++){
+        if(gcd(a[i],x)!=a[i]) continue;
+        int top= sofar.size();
+        for(int j=0;j<top;j++){
+            if(__gcd(a[i]*sofar[j],x)==a[i]*sofar[j]){
+                sofar.push_back(a[i]*sofar[j]);
             }
         }
         sofar.push_back(a[i]);
-        sort(sofar.begin(), sofar.end());
-        sofar.erase(unique(sofar.begin(), sofar.end()), sofar.end());
+        sort(sofar.begin(),sofar.end());
+        sofar.erase(unique(sofar.begin(),sofar.end()),sofar.end());
 
-        if (sofar.back() == x) {
+        if(sofar.back()==x){
             segments++;
             sofar.clear();
             sofar.push_back(a[i]);
         }
 
     }
-    cout << segments << "\n";
+    cout<<segments<<"\n";
 }
 
 
