@@ -18,7 +18,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 502 | [B - Make Majority](https://codeforces.com/contest/1988/problem/B) | [C++17 (GCC 7-32)](./codeforces/1988/B.cpp) | `greedy` | Jul/15/2024 15:43 | 
 501 | [A - Split the Multiset](https://codeforces.com/contest/1988/problem/A) | [C++17 (GCC 7-32)](./codeforces/1988/A.cpp) | `brute force` `dp` `greedy` `math` `math` | Jul/15/2024 15:38 | 
 500 | [E - Novice's Mistake](https://codeforces.com/contest/1992/problem/E) | [C++17 (GCC 7-32)](./codeforces/1992/E.cpp) | `brute force` `constructive algorithms` `math` `strings` `*1700` | Jul/12/2024 16:29 | 
-499 | [F - Valuable Cards](https://codeforces.com/contest/1992/problem/F) | [C++17 (GCC 7-32)](./codeforces/1992/F.cpp) | `dp` `greedy` `number theory` `two pointers` | Jul/11/2024 21:03 | 
+499 | [F - Valuable Cards](https://codeforces.com/contest/1992/problem/F) | [C++17 (GCC 7-32)](./codeforces/1992/F.cpp) | `brute force` `dp` `greedy` `number theory` `two pointers` `*1900` | Jul/11/2024 21:33 | 
 498 | [D - Test of Love](https://codeforces.com/contest/1992/problem/D) | [C++17 (GCC 7-32)](./codeforces/1992/D.cpp) | `dp` `greedy` `implementation` | Jul/11/2024 16:26 | 
 497 | [C - Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C) | [C++17 (GCC 7-32)](./codeforces/1992/C.cpp) | `constructive algorithms` `math` | Jul/11/2024 16:13 | 
 496 | [B - Angry Monk](https://codeforces.com/contest/1992/problem/B) | [C++17 (GCC 7-32)](./codeforces/1992/B.cpp) | `math` `math` `sortings` | Jul/11/2024 16:09 | 

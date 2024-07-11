@@ -9421,6 +9421,26 @@
     ],
     "timestamp": "Jul/11/2024 21:03"
   },
+  "CF270082882": {
+    "contest_id": 1992,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1992/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Valuable Cards",
+    "problem_url": "https://codeforces.com/contest/1992/problem/F",
+    "submission_id": "CF270082882",
+    "submission_url": "https://codeforces.com/contest/1992/submission/270082882",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "number theory",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Jul/11/2024 21:33"
+  },
   "CF270199937": {
     "contest_id": 1992,
     "language": "C++17 (GCC 7-32)",
