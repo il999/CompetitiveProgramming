@@ -59,22 +59,23 @@ void solve() {
         n1/=10;
     }
     reverse(digit.begin(),digit.end());
-    vector<int> numbers(8);
+    vector<int> numbers(6);
     int in=0;
     int last=0;
-    for(int i=1;i<=7;i++){
+    for(int i=1;i<=5;i++){
         last = last*10 +digit[in];
         numbers[i]=last;
         in++;
         if(in>=digit.size())in=0;
     }
+    int t=10;
     vector<array<int,2> > pos;
     for(int i=1;i<10001;i++){
 
-        for(int j=ndigits*i-7;j<ndigits*i;j++){
+        for(int j=ndigits*i-5;j<ndigits*i;j++){
             int wanted= n*i-j;
             int actual = numbers[ndigits*i-j];
-            if(wanted==actual&&j!=0&&j<=10000){
+            if(wanted==actual&&!(i==1&&j==0)){
                 pos.push_back({i,j});
             }
         }
@@ -98,5 +99,4 @@ signed main(){
     cin>>t;
     while(t--)
         solve();
-
 }
