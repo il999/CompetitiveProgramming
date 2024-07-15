@@ -9421,6 +9421,25 @@
     ],
     "timestamp": "Jul/11/2024 21:03"
   },
+  "CF270647488": {
+    "contest_id": 1988,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1988/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Split the Multiset",
+    "problem_url": "https://codeforces.com/contest/1988/problem/A",
+    "submission_id": "CF270647488",
+    "submission_url": "https://codeforces.com/contest/1988/submission/270647488",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "math"
+    ],
+    "timestamp": "Jul/15/2024 15:38"
+  },
   "CF270651867": {
     "contest_id": 1988,
     "language": "C++17 (GCC 7-32)",
