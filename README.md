@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-502 | [D - The Omnipotent Monster Killer](https://codeforces.com/contest/1988/problem/D) | [C++17 (GCC 7-32)](./codeforces/1988/D.cpp) | `brute force` `dp` `graphs` `trees` | Jul/15/2024 18:40 | 
-501 | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++17 (GCC 7-32)](./codeforces/1988/C.cpp) | `bitmasks` `constructive algorithms` `greedy` | Jul/15/2024 16:17 | 
+503 | [D - The Omnipotent Monster Killer](https://codeforces.com/contest/1988/problem/D) | [C++17 (GCC 7-32)](./codeforces/1988/D.cpp) | `brute force` `dp` `graphs` `trees` | Jul/15/2024 18:40 | 
+502 | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++17 (GCC 7-32)](./codeforces/1988/C.cpp) | `bitmasks` `constructive algorithms` `greedy` | Jul/15/2024 16:17 | 
+501 | [B - Make Majority](https://codeforces.com/contest/1988/problem/B) | [C++17 (GCC 7-32)](./codeforces/1988/B.cpp) | `greedy` | Jul/15/2024 15:43 | 
 500 | [F - Valuable Cards](https://codeforces.com/contest/1992/problem/F) | [C++17 (GCC 7-32)](./codeforces/1992/F.cpp) | `dp` `greedy` `number theory` `two pointers` | Jul/11/2024 21:03 | 
 499 | [E - Novice's Mistake](https://codeforces.com/contest/1992/problem/E) | [C++17 (GCC 7-32)](./codeforces/1992/E.cpp) | `brute force` `constructive algorithms` `math` | Jul/11/2024 17:01 | 
 498 | [D - Test of Love](https://codeforces.com/contest/1992/problem/D) | [C++17 (GCC 7-32)](./codeforces/1992/D.cpp) | `dp` `greedy` `implementation` | Jul/11/2024 16:26 | 
