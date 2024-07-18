@@ -13,20 +13,21 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-518 | [E - Level Up](https://codeforces.com/contest/1997/problem/E) | [C++17 (GCC 7-32)](./codeforces/1997/E.cpp) | `binary search` `brute force` `data structures` `divide and conquer` `implementation` | Jul/30/2024 17:06 | 
-517 | [D - Maximize the Root](https://codeforces.com/contest/1997/problem/D) | [C++17 (GCC 7-32)](./codeforces/1997/D.cpp) | `binary search` `dfs and similar` `dp` `greedy` `trees` | Jul/30/2024 16:25 | 
-516 | [C - Even Positions](https://codeforces.com/contest/1997/problem/C) | [C++17 (GCC 7-32)](./codeforces/1997/C.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` | Jul/30/2024 16:11 | 
-515 | [B - Make Three Regions](https://codeforces.com/contest/1997/problem/B) | [C++17 (GCC 7-32)](./codeforces/1997/B.cpp) | `constructive algorithms` `two pointers` | Jul/30/2024 15:55 | 
-514 | [A - Strong Password](https://codeforces.com/contest/1997/problem/A) | [C++17 (GCC 7-32)](./codeforces/1997/A.cpp) | `brute force` `implementation` `strings` | Jul/30/2024 15:39 | 
-513 | [D - Prime XOR Coloring](https://codeforces.com/contest/1991/problem/D) | [C++17 (GCC 7-32)](./codeforces/1991/D.cpp) | `bitmasks` `constructive algorithms` `graphs` `greedy` `math` `number theory` | Jul/29/2024 10:08 | 
-512 | [E - Coloring Game](https://codeforces.com/contest/1991/problem/E) | [C++17 (GCC 7-32)](./codeforces/1991/E.cpp) | `constructive algorithms` `dfs and similar` `games` `graphs` `greedy` `interactive` | Jul/28/2024 17:29 | 
-511 | [C - Absolute Zero](https://codeforces.com/contest/1991/problem/C) | [C++17 (GCC 7-32)](./codeforces/1991/C.cpp) | `constructive algorithms` `greedy` `math` | Jul/28/2024 16:03 | 
-510 | [B - AND Reconstruction](https://codeforces.com/contest/1991/problem/B) | [C++17 (GCC 7-32)](./codeforces/1991/B.cpp) | `bitmasks` `constructive algorithms` `greedy` | Jul/28/2024 15:52 | 
-509 | [A - Maximize the Last Element](https://codeforces.com/contest/1991/problem/A) | [C++17 (GCC 7-32)](./codeforces/1991/A.cpp) | `greedy` `implementation` | Jul/28/2024 15:38 | 
-508 | [E - Decode](https://codeforces.com/contest/1996/problem/E) | [C++17 (GCC 7-32)](./codeforces/1996/E.cpp) | `combinatorics` `implementation` `math` | Jul/27/2024 16:17 | 
-507 | [C - Mad MAD Sum](https://codeforces.com/contest/1990/problem/C) | [C++17 (GCC 7-32)](./codeforces/1990/C.cpp) | `brute force` `greedy` `math` `*1500` | Jul/27/2024 16:04 | 
-506 | [B - Array Craft](https://codeforces.com/contest/1990/problem/B) | [C++17 (GCC 7-32)](./codeforces/1990/B.cpp) | `constructive algorithms` `greedy` `*1200` | Jul/20/2024 16:10 | 
-505 | [A - Submission Bait](https://codeforces.com/contest/1990/problem/A) | [C++17 (GCC 7-32)](./codeforces/1990/A.cpp) | `brute force` `games` `greedy` `sortings` `*900` | Jul/20/2024 15:44 | 
+519 | [E - Level Up](https://codeforces.com/contest/1997/problem/E) | [C++17 (GCC 7-32)](./codeforces/1997/E.cpp) | `binary search` `brute force` `data structures` `divide and conquer` `implementation` | Jul/30/2024 17:06 | 
+518 | [D - Maximize the Root](https://codeforces.com/contest/1997/problem/D) | [C++17 (GCC 7-32)](./codeforces/1997/D.cpp) | `binary search` `dfs and similar` `dp` `greedy` `trees` | Jul/30/2024 16:25 | 
+517 | [C - Even Positions](https://codeforces.com/contest/1997/problem/C) | [C++17 (GCC 7-32)](./codeforces/1997/C.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` | Jul/30/2024 16:11 | 
+516 | [B - Make Three Regions](https://codeforces.com/contest/1997/problem/B) | [C++17 (GCC 7-32)](./codeforces/1997/B.cpp) | `constructive algorithms` `two pointers` | Jul/30/2024 15:55 | 
+515 | [A - Strong Password](https://codeforces.com/contest/1997/problem/A) | [C++17 (GCC 7-32)](./codeforces/1997/A.cpp) | `brute force` `implementation` `strings` | Jul/30/2024 15:39 | 
+514 | [D - Prime XOR Coloring](https://codeforces.com/contest/1991/problem/D) | [C++17 (GCC 7-32)](./codeforces/1991/D.cpp) | `bitmasks` `constructive algorithms` `graphs` `greedy` `math` `number theory` | Jul/29/2024 10:08 | 
+513 | [E - Coloring Game](https://codeforces.com/contest/1991/problem/E) | [C++17 (GCC 7-32)](./codeforces/1991/E.cpp) | `constructive algorithms` `dfs and similar` `games` `graphs` `greedy` `interactive` | Jul/28/2024 17:29 | 
+512 | [C - Absolute Zero](https://codeforces.com/contest/1991/problem/C) | [C++17 (GCC 7-32)](./codeforces/1991/C.cpp) | `constructive algorithms` `greedy` `math` | Jul/28/2024 16:03 | 
+511 | [B - AND Reconstruction](https://codeforces.com/contest/1991/problem/B) | [C++17 (GCC 7-32)](./codeforces/1991/B.cpp) | `bitmasks` `constructive algorithms` `greedy` | Jul/28/2024 15:52 | 
+510 | [A - Maximize the Last Element](https://codeforces.com/contest/1991/problem/A) | [C++17 (GCC 7-32)](./codeforces/1991/A.cpp) | `greedy` `implementation` | Jul/28/2024 15:38 | 
+509 | [E - Decode](https://codeforces.com/contest/1996/problem/E) | [C++17 (GCC 7-32)](./codeforces/1996/E.cpp) | `combinatorics` `implementation` `math` | Jul/27/2024 16:17 | 
+508 | [C - Mad MAD Sum](https://codeforces.com/contest/1990/problem/C) | [C++17 (GCC 7-32)](./codeforces/1990/C.cpp) | `brute force` `greedy` `math` `*1500` | Jul/27/2024 16:04 | 
+507 | [B - Array Craft](https://codeforces.com/contest/1990/problem/B) | [C++17 (GCC 7-32)](./codeforces/1990/B.cpp) | `constructive algorithms` `greedy` `*1200` | Jul/20/2024 16:10 | 
+506 | [A - Submission Bait](https://codeforces.com/contest/1990/problem/A) | [C++17 (GCC 7-32)](./codeforces/1990/A.cpp) | `brute force` `games` `greedy` `sortings` `*900` | Jul/20/2024 15:44 | 
+505 | [C - Hungry Games](https://codeforces.com/contest/1994/problem/C) | [C++17 (GCC 7-32)](./codeforces/1994/C.cpp) | `binary search` `dp` `two pointers` `*1600` | Jul/18/2024 17:11 | 
 504 | [D - The Omnipotent Monster Killer](https://codeforces.com/contest/1988/problem/D) | [C++17 (GCC 7-32)](./codeforces/1988/D.cpp) | `brute force` `dp` `graphs` `trees` | Jul/15/2024 18:40 | 
 503 | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++17 (GCC 7-32)](./codeforces/1988/C.cpp) | `bitmasks` `constructive algorithms` `greedy` | Jul/15/2024 16:17 | 
 502 | [B - Make Majority](https://codeforces.com/contest/1988/problem/B) | [C++17 (GCC 7-32)](./codeforces/1988/B.cpp) | `greedy` | Jul/15/2024 15:43 | 
