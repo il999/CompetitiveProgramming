@@ -9589,6 +9589,23 @@
     ],
     "timestamp": "Jul/15/2024 18:40"
   },
+  "CF271577855": {
+    "contest_id": 1990,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1990/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array Craft",
+    "problem_url": "https://codeforces.com/contest/1990/problem/B",
+    "submission_id": "CF271577855",
+    "submission_url": "https://codeforces.com/contest/1990/submission/271577855",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Jul/20/2024 16:10"
+  },
   "CF273001550": {
     "contest_id": 1990,
     "language": "C++17 (GCC 7-32)",
