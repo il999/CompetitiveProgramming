@@ -9589,6 +9589,24 @@
     ],
     "timestamp": "Jul/15/2024 18:40"
   },
+  "CF273001550": {
+    "contest_id": 1990,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1990/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mad MAD Sum",
+    "problem_url": "https://codeforces.com/contest/1990/problem/C",
+    "submission_id": "CF273001550",
+    "submission_url": "https://codeforces.com/contest/1990/submission/273001550",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jul/27/2024 16:04"
+  },
   "CF273003188": {
     "contest_id": 1996,
     "language": "C++17 (GCC 7-32)",
