@@ -57,8 +57,11 @@ void solve() {
         if(s[i]=='1') cur++;
         else cur--;
 
-        ans = add(ans,mul(m[cur],n-i));
-        m[cur]+=i+2;
+        if(m.find(cur)==m.end()) m[cur]=i+2;
+        else {
+            ans = add(ans,mul(m[cur],n-i));
+            m[cur]+=i+2;
+        }
     }
     cout<<ans<<"\n";
 
