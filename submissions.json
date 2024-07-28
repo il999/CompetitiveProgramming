@@ -9589,6 +9589,23 @@
     ],
     "timestamp": "Jul/15/2024 18:40"
   },
+  "CF273150705": {
+    "contest_id": 1991,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1991/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "AND Reconstruction",
+    "problem_url": "https://codeforces.com/contest/1991/problem/B",
+    "submission_id": "CF273150705",
+    "submission_url": "https://codeforces.com/contest/1991/submission/273150705",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy"
+    ],
+    "timestamp": "Jul/28/2024 15:52"
+  },
   "CF273158478": {
     "contest_id": 1991,
     "language": "C++17 (GCC 7-32)",
