@@ -54,13 +54,26 @@ void solve() {
     vector<int> ans(2*n+1);
 
     for(int i=1;i<=n;i++){
-        if((i%2)==1) ans[i]=1;
-        else ans[i]=2;
-        
+        if((i%2)==1){
+            ans[i]=1;
+        }else{
+            ans[i]=2;
+        }
     }
     for(int i=1;i<=n;i++){
-        if((i&3)==0) ans[i+2]=4;
-        else if((i&3)==1) ans[i+2]=3;
+        if((i&3)==0){
+            if(ans[i]==2){
+                ans[i+2]=4;
+            }else{
+                ans[i+2]=2;
+            }
+        }else if((i&3)==1){
+            if(ans[i]==1){
+                ans[i+2]=3;
+            }else{
+                ans[i+2]=1;
+            }
+        }
     }
     int col=0;
     for(int i=1;i<=n;i++){
