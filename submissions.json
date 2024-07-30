@@ -9589,6 +9589,25 @@
     ],
     "timestamp": "Jul/15/2024 18:40"
   },
+  "CF273545206": {
+    "contest_id": 1997,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1997/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Maximize the Root",
+    "problem_url": "https://codeforces.com/contest/1997/problem/D",
+    "submission_id": "CF273545206",
+    "submission_url": "https://codeforces.com/contest/1997/submission/273545206",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ],
+    "timestamp": "Jul/30/2024 16:25"
+  },
   "CF273575607": {
     "contest_id": 1997,
     "language": "C++17 (GCC 7-32)",
