@@ -9589,6 +9589,23 @@
     ],
     "timestamp": "Jul/15/2024 18:40"
   },
+  "CF273487883": {
+    "contest_id": 1997,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1997/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Strong Password",
+    "problem_url": "https://codeforces.com/contest/1997/problem/A",
+    "submission_id": "CF273487883",
+    "submission_url": "https://codeforces.com/contest/1997/submission/273487883",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Jul/30/2024 15:39"
+  },
   "CF273512213": {
     "contest_id": 1997,
     "language": "C++17 (GCC 7-32)",
