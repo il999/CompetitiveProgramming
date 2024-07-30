@@ -9589,6 +9589,22 @@
     ],
     "timestamp": "Jul/15/2024 18:40"
   },
+  "CF273512213": {
+    "contest_id": 1997,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1997/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make Three Regions",
+    "problem_url": "https://codeforces.com/contest/1997/problem/B",
+    "submission_id": "CF273512213",
+    "submission_url": "https://codeforces.com/contest/1997/submission/273512213",
+    "tags": [
+      "constructive algorithms",
+      "two pointers"
+    ],
+    "timestamp": "Jul/30/2024 15:55"
+  },
   "CF273532247": {
     "contest_id": 1997,
     "language": "C++17 (GCC 7-32)",
