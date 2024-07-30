@@ -9589,6 +9589,24 @@
     ],
     "timestamp": "Jul/15/2024 18:40"
   },
+  "CF273532247": {
+    "contest_id": 1997,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1997/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Even Positions",
+    "problem_url": "https://codeforces.com/contest/1997/problem/C",
+    "submission_id": "CF273532247",
+    "submission_url": "https://codeforces.com/contest/1997/submission/273532247",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ],
+    "timestamp": "Jul/30/2024 16:11"
+  },
   "CF273545206": {
     "contest_id": 1997,
     "language": "C++17 (GCC 7-32)",

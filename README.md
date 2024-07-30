@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-506 | [E - Level Up](https://codeforces.com/contest/1997/problem/E) | [C++17 (GCC 7-32)](./codeforces/1997/E.cpp) | `binary search` `brute force` `data structures` `divide and conquer` `implementation` | Jul/30/2024 17:06 | 
-505 | [D - Maximize the Root](https://codeforces.com/contest/1997/problem/D) | [C++17 (GCC 7-32)](./codeforces/1997/D.cpp) | `binary search` `dfs and similar` `dp` `greedy` `trees` | Jul/30/2024 16:25 | 
+507 | [E - Level Up](https://codeforces.com/contest/1997/problem/E) | [C++17 (GCC 7-32)](./codeforces/1997/E.cpp) | `binary search` `brute force` `data structures` `divide and conquer` `implementation` | Jul/30/2024 17:06 | 
+506 | [D - Maximize the Root](https://codeforces.com/contest/1997/problem/D) | [C++17 (GCC 7-32)](./codeforces/1997/D.cpp) | `binary search` `dfs and similar` `dp` `greedy` `trees` | Jul/30/2024 16:25 | 
+505 | [C - Even Positions](https://codeforces.com/contest/1997/problem/C) | [C++17 (GCC 7-32)](./codeforces/1997/C.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` | Jul/30/2024 16:11 | 
 504 | [D - The Omnipotent Monster Killer](https://codeforces.com/contest/1988/problem/D) | [C++17 (GCC 7-32)](./codeforces/1988/D.cpp) | `brute force` `dp` `graphs` `trees` | Jul/15/2024 18:40 | 
 503 | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++17 (GCC 7-32)](./codeforces/1988/C.cpp) | `bitmasks` `constructive algorithms` `greedy` | Jul/15/2024 16:17 | 
 502 | [B - Make Majority](https://codeforces.com/contest/1988/problem/B) | [C++17 (GCC 7-32)](./codeforces/1988/B.cpp) | `greedy` | Jul/15/2024 15:43 | 
