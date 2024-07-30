@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+505 | [E - Level Up](https://codeforces.com/contest/1997/problem/E) | [C++17 (GCC 7-32)](./codeforces/1997/E.cpp) | `binary search` `brute force` `data structures` `divide and conquer` `implementation` | Jul/30/2024 17:06 | 
 504 | [D - The Omnipotent Monster Killer](https://codeforces.com/contest/1988/problem/D) | [C++17 (GCC 7-32)](./codeforces/1988/D.cpp) | `brute force` `dp` `graphs` `trees` | Jul/15/2024 18:40 | 
 503 | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++17 (GCC 7-32)](./codeforces/1988/C.cpp) | `bitmasks` `constructive algorithms` `greedy` | Jul/15/2024 16:17 | 
 502 | [B - Make Majority](https://codeforces.com/contest/1988/problem/B) | [C++17 (GCC 7-32)](./codeforces/1988/B.cpp) | `greedy` | Jul/15/2024 15:43 | 
