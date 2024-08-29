@@ -1,6 +1,6 @@
 Submissions
 ======================
-> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)* NOTE: up to date since the tool has stopped working
+> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)* NOTE: not up to date since the tool has stopped working
 
 ## Introduction
 
