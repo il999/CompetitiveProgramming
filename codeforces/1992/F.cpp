@@ -9,6 +9,7 @@
 #include <array>
 #include <stack>
 #include <chrono>
+#include <numeric>
 using namespace std;
 const int MOD =998244353;
 #define int long long
@@ -42,41 +43,36 @@ int inv(int x)
 int divide(int x, int y) {
     return mul(x, inv(y));
 }
-int gcd(int a,int b){
-    if(a<b)swap(a,b);
-    if(a%b==0) return b;
-    else return gcd(b,a%b);
-}
 vector<int> primes;
 void solve() {
     //100 friends, 10^5 apples
-    int n,x;
-    cin>>n>>x;
+    int n, x;
+    cin >> n >> x;
     vector<int> a(n);
-    for(int i=0;i<n;i++) cin>>a[i];
-    int segments=1;
+    for (int i = 0; i < n; i++) cin >> a[i];
+    int segments = 1;
     vector<int> sofar;
- //   cout<<"HER\n";
-    for(int i=0;i<n;i++){
-        if(gcd(a[i],x)!=a[i]) continue;
-        int top= sofar.size();
-        for(int j=0;j<top;j++){
-            if(gcd(a[i]*sofar[j],x)==a[i]*sofar[j]){
-                sofar.push_back(a[i]*sofar[j]);
+
+    for (int i = 0; i < n; i++) {
+        if (gcd(a[i], x) != a[i]) continue;
+        int top = sofar.size();
+        for (int j = 0; j < top; j++) {
+            if (__gcd(a[i] * sofar[j], x) == a[i] * sofar[j]) {
+                sofar.push_back(a[i] * sofar[j]);
             }
         }
         sofar.push_back(a[i]);
-        sort(sofar.begin(),sofar.end());
-        sofar.erase(unique(sofar.begin(),sofar.end()),sofar.end());
+        sort(sofar.begin(), sofar.end());
+        sofar.erase(unique(sofar.begin(), sofar.end()), sofar.end());
 
-        if(sofar.back()==x){
+        if (sofar.back() == x) {
             segments++;
             sofar.clear();
             sofar.push_back(a[i]);
         }
 
     }
-    cout<<segments<<"\n";
+    cout << segments << "\n";
 }
 
 
